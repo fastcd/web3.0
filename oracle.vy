@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Integrate IPFS for storage
 // Implement delegation pattern
+// Fix type mismatch in Haskell smart contract
