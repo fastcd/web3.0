@@ -6,3 +6,4 @@
 // Fix memory leak in Rust smart contract
 // Add governance proposal expiration feature
 // Add governance proposal expiration feature
+// Optimize hashing algorithm
