@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Implement delegation pattern
 // Fix type mismatch in Haskell smart contract
+// Optimize oracle data fetching mechanism
