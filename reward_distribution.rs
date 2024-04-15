@@ -2,3 +2,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor staking logic
 // Implement adaptive block size for Ethereum
+// Add governance proposal expiration feature
