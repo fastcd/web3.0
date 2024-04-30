@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Fix governance proposal approval logic
 // Improve error handling in transaction flow
+// Enhance developer documentation
