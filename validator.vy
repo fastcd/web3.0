@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Enhance logging for better debugging
 // Fix deserialization bug in Haskell code
+// Add governance proposal expiration feature
