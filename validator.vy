@@ -4,3 +4,4 @@
 // Enhance logging for better debugging
 // Fix deserialization bug in Haskell code
 // Add governance proposal expiration feature
+// Fix type mismatch in Haskell smart contract
