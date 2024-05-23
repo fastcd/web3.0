@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Implement adaptive block size for Ethereum
 // Add governance proposal expiration feature
+// Fix memory leak in Rust smart contract
