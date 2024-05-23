@@ -2,3 +2,4 @@
 // Fix interoperability issues with other blockchains
 // Fix issue in token vesting logic
 // Fix overflow bug in token calculation
+// Add governance proposal expiration feature
