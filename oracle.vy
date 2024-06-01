@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Optimize oracle data fetching mechanism
 // Refactor governance token logic
+// Enhance developer documentation
