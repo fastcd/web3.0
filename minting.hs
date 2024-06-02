@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Add batch processing for transactions
 // Refactor staking logic
+// Fix issue with multi-chain transactions
