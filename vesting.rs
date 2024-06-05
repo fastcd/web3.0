@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Implement delegation pattern
 // Implement on-chain identity verification
+// Enhance gas fee management
