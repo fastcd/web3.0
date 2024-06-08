@@ -6,3 +6,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor governance token logic
 // Enhance developer documentation
+// Fix issue in token vesting logic
