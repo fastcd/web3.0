@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Enhance smart contract upgradeability
 // Enhance gas fee management
+// Improve error handling in transaction flow
