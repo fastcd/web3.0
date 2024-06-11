@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Upgrade to latest Solidity version
 // Optimize token minting flow
+// Add new RPC endpoint
