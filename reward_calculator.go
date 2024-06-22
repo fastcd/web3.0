@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix edge case in unstaking logic
 // Refactor staking logic
+// Refactor staking logic
