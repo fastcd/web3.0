@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Implement on-chain identity verification
 // Enhance gas fee management
+// Add fallback mechanism in Solidity contract
