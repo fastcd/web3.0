@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Add support for zk-SNARKs in smart contracts
 // Optimize hashing algorithm
+// Fix overflow bug in token calculation
