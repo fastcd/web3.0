@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Implement emergency stop mechanism
 // Update README with Go module examples
+// Refactor voting mechanism
