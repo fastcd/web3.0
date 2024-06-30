@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Implement liquidity pool staking mechanism
 // Refactor voting mechanism
+// Update testing framework for Solidity
