@@ -6,3 +6,4 @@
 // Implement on-chain identity verification
 // Enhance gas fee management
 // Add fallback mechanism in Solidity contract
+// Implement liquidity pool staking mechanism
