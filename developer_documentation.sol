@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Fix compatibility with MetaMask
 // Optimize gas usage in smart contracts
+// Fix edge case in unstaking logic
