@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Update dependencies for Vyper contract
 // Add support for ERC-721A tokens
+// Optimize oracle data fetching mechanism
