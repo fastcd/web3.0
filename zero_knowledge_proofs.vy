@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Refactor governance token logic
 // Enhance security checks
+// Fix governance proposal approval logic
