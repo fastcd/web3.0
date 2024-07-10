@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Improve contract modularity
 // Implement emergency stop mechanism
+// Refactor staking logic
