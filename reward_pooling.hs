@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Implement delegation pattern
 // Implement adaptive block size for Ethereum
+// Fix issue with multi-chain transactions
