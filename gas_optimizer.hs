@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Update dependencies for Vyper contract
 // Enhance developer documentation
+// Add support for multiple consensus mechanisms
