@@ -5,3 +5,4 @@
 // Implement emergency stop mechanism
 // Refactor staking logic
 // Improve contract state management
+// Add new RPC endpoint
