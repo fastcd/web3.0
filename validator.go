@@ -6,3 +6,4 @@
 // Update README with Go module examples
 // Refactor voting mechanism
 // Refactor staking logic
+// Implement reward distribution feature
