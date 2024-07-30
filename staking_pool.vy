@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Implement delegation pattern
 // Enhance security checks
+// Bugfix: incorrect reward calculation
