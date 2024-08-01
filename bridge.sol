@@ -3,3 +3,4 @@
 // Enhance transaction monitoring
 // Add support for ERC-1155 tokens
 // Optimize gas usage in smart contracts
+// Enhance logging for better debugging
