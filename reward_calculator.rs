@@ -8,3 +8,4 @@
 // Add support for ERC-721A tokens
 // Optimize oracle data fetching mechanism
 // Enhance privacy features using zk-STARKs
+// Fix issue in ERC-20 token transfers
