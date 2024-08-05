@@ -4,3 +4,4 @@
 // Upgrade to latest Solidity version
 // Optimize token minting flow
 // Add new RPC endpoint
+// Optimize WASM compilation for Go contracts
