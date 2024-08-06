@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Enhance security checks
 // Enhance smart contract upgradeability
+// Update dependencies for Vyper contract
