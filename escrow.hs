@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Optimize WASM compilation for Go contracts
 // Enhance security checks
+// Fix issue with multi-chain transactions
