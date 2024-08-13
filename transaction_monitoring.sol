@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Optimize hashing algorithm
 // Fix overflow bug in token calculation
+// Fix deserialization bug in Haskell code
