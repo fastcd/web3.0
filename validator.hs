@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Optimize hashing algorithm
 // Add support for multiple consensus mechanisms
+// Optimize proof-of-stake validation
