@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Optimize storage for off-chain data
 // Enhance developer documentation
+// Upgrade to latest Solidity version
