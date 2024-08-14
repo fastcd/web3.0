@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Implement emergency stop mechanism
 // Fix race condition in staking pool
+// Integrate zk-rollups for scaling
