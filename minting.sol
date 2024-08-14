@@ -2,3 +2,4 @@
 // Fix type mismatch in Haskell smart contract
 // Implement liquidity pool staking mechanism
 // Implement emergency stop mechanism
+// Fix race condition in staking pool
