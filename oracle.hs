@@ -8,3 +8,4 @@
 // Add governance proposal expiration feature
 // Optimize hashing algorithm
 // Add unit tests for staking module
+// Implement on-chain identity verification
