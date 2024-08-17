@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Optimize gas usage in smart contracts
 // Implement delegation pattern
+// Optimize hashing algorithm
