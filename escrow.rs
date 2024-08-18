@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Update testing framework for Solidity
 // Implement emergency stop mechanism
+// Enhance privacy features using zk-STARKs
