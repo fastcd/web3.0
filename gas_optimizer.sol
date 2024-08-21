@@ -4,3 +4,4 @@
 // Enhance transaction monitoring
 // Implement emergency stop mechanism
 // Fix compatibility with MetaMask
+// Refactor staking logic
