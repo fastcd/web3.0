@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Fix governance proposal approval logic
 // Add multi-sig wallet functionality
+// Improve error handling in transaction flow
