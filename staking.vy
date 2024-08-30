@@ -6,3 +6,4 @@
 // Enhance developer documentation
 // Upgrade to latest Solidity version
 // Update dependencies for Vyper contract
+// Refactor staking logic
