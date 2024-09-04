@@ -3,3 +3,4 @@
 // Enhance logging for better debugging
 // Refactor validator reward system
 // Optimize hashing algorithm
+// Implement reward distribution feature
