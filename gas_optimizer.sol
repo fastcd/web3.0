@@ -5,3 +5,4 @@
 // Implement emergency stop mechanism
 // Fix compatibility with MetaMask
 // Refactor staking logic
+// Add unit tests for staking module
