@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Fix race condition in staking pool
 // Bugfix: incorrect reward calculation
+// Enhance logging for better debugging
