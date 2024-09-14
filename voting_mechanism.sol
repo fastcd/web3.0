@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Fix compatibility with MetaMask
 // Add multi-sig wallet functionality
+// Implement delegation pattern
