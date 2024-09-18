@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Implement reward distribution feature
 // Implement delegation pattern
+// Refactor validator reward system
