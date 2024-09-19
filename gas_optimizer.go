@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Add new RPC endpoint
 // Optimize WASM compilation for Go contracts
+// Improve API rate limiting
