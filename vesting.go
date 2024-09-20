@@ -7,3 +7,4 @@
 // Improve contract state management
 // Add new RPC endpoint
 // Enhance privacy features using zk-STARKs
+// Fix bug in random number generation
