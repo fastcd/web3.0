@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Optimize hashing algorithm
 // Implement reward distribution feature
+// Implement rewards escrow system
