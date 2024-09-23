@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Add support for multiple consensus mechanisms
 // Improve token burning mechanism
+// Implement on-chain identity verification
