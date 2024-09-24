@@ -3,3 +3,4 @@
 // Improve contract state management
 // Fix compatibility with MetaMask
 // Code cleanup and documentation update
+// Enhance gas fee management
