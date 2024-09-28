@@ -7,3 +7,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve API rate limiting
 // Add support for multiple consensus mechanisms
+// Add unit tests for staking module
