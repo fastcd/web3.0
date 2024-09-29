@@ -8,3 +8,4 @@
 // Implement emergency stop mechanism
 // Enhance privacy features using zk-STARKs
 // Fix interoperability issues with other blockchains
+// Implement delegation pattern
