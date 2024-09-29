@@ -8,3 +8,4 @@
 // Refactor staking logic
 // Implement reward distribution feature
 // Bugfix: incorrect reward calculation
+// Fix compatibility with MetaMask
