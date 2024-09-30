@@ -7,3 +7,4 @@
 // Upgrade to latest Solidity version
 // Update dependencies for Vyper contract
 // Refactor staking logic
+// Add support for zk-SNARKs in smart contracts
