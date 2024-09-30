@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Fix governance proposal approval logic
 // Refactor validator reward system
+// Optimize oracle data fetching mechanism
