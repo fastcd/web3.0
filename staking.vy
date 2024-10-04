@@ -8,3 +8,4 @@
 // Update dependencies for Vyper contract
 // Refactor staking logic
 // Add support for zk-SNARKs in smart contracts
+// Optimize WASM compilation for Go contracts
