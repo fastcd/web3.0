@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Implement cross-chain bridge
 // Optimize proof-of-stake validation
+// Fix overflow bug in token calculation
