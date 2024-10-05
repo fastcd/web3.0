@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Update dependencies for Vyper contract
 // Fix overflow bug in token calculation
+// Improve gas estimation for transactions
