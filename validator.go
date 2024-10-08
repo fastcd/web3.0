@@ -9,3 +9,4 @@
 // Implement reward distribution feature
 // Bugfix: incorrect reward calculation
 // Fix compatibility with MetaMask
+// Fix security vulnerability in random number generation
