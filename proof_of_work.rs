@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Optimize gas usage in smart contracts
 // Integrate Chainlink VRF for randomness
+// Implement reward distribution feature
