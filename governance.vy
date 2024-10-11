@@ -2,3 +2,4 @@
 // Fix issue in ERC-20 token transfers
 // Implement rewards escrow system
 // Improve error handling in transaction flow
+// Implement cross-chain bridge
