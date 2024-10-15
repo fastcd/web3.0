@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Refactor contract to use EIP-712 signatures
 // Update dependencies for Vyper contract
+// Improve contract state management
