@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Enhance logging for better debugging
 // Refactor voting mechanism
+// Update smart contract tests
