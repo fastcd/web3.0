@@ -7,3 +7,4 @@
 // Fix race condition in staking pool
 // Bugfix: incorrect reward calculation
 // Enhance logging for better debugging
+// Fix issue with multi-chain transactions
