@@ -9,3 +9,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix interoperability issues with other blockchains
 // Implement delegation pattern
+// Code cleanup and documentation update
