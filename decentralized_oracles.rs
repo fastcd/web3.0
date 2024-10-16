@@ -4,3 +4,4 @@
 // Implement emergency stop mechanism
 // Optimize token minting flow
 // Enhance contract initialization process
+// Fix race condition in staking pool
