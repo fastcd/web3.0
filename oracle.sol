@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Implement delegation pattern
 // Optimize WASM compilation for Go contracts
+// Optimize oracle data fetching mechanism
