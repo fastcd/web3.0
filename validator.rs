@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Add new feature: on-chain governance
 // Implement delegation pattern
+// Fix overflow bug in token calculation
