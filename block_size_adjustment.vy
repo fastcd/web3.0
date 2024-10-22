@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Add support for ERC-721A tokens
 // Refactor validator reward system
+// Add support for ERC-721A tokens
