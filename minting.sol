@@ -4,3 +4,4 @@
 // Implement emergency stop mechanism
 // Fix race condition in staking pool
 // Integrate zk-rollups for scaling
+// Add support for ERC-1155 tokens
