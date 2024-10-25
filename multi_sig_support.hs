@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Code cleanup and documentation update
 // Enhance gas fee management
+// Fix bug in random number generation
