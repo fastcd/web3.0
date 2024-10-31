@@ -2,3 +2,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add unit tests for staking module
 // Refactor reward pooling algorithm
+// Optimize token minting flow
