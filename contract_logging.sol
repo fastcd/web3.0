@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor validator reward system
 // Refactor staking logic
+// Add multi-sig wallet functionality
