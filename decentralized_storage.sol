@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Add fallback mechanism in Solidity contract
 // Enhance logging for better debugging
+// Implement rewards escrow system
