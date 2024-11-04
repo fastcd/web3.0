@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Add support for ERC-1155 tokens
 // Add multi-sig wallet functionality
+// Bugfix: incorrect reward calculation
