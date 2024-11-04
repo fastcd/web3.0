@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Fix transaction replay issue
 // Add support for multiple consensus mechanisms
+// Implement delegation pattern
