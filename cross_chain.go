@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Implement liquidity pool staking mechanism
 // Fix race condition in staking pool
+// Implement delegation pattern
