@@ -2,3 +2,4 @@
 // Enhance transaction monitoring
 // Improve error handling in transaction flow
 // Integrate Chainlink VRF for randomness
+// Improve contract modularity
