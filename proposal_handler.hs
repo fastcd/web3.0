@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Add governance proposal expiration feature
 // Optimize gas usage in smart contracts
+// Enhance transaction monitoring
