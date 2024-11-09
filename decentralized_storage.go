@@ -2,3 +2,4 @@
 // Optimize token minting flow
 // Add support for zk-SNARKs in smart contracts
 // Integrate Chainlink VRF for randomness
+// Improve error handling in transaction flow
