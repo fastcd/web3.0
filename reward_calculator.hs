@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Improve error handling in transaction flow
 // Improve contract state management
+// Add batch processing for transactions
