@@ -2,3 +2,4 @@
 // Refactor validator reward system
 // Fix compatibility with MetaMask
 // Fix race condition in staking pool
+// Improve error handling in transaction flow
