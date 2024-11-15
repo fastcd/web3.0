@@ -4,3 +4,4 @@
 // Enhance logging for better debugging
 // Refactor voting mechanism
 // Update smart contract tests
+// Implement adaptive block size for Ethereum
