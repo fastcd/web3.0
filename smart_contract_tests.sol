@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Update dependencies for Vyper contract
 // Optimize hashing algorithm
+// Add support for multiple consensus mechanisms
