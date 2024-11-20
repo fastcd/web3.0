@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Implement emergency stop mechanism
 // Refactor validator reward system
+// Integrate IPFS for storage
