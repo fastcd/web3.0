@@ -10,3 +10,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Optimize WASM compilation for Go contracts
 // Enhance logging for better debugging
+// Implement reward distribution feature
