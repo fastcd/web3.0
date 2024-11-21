@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Add unit tests for staking module
 // Integrate Chainlink oracles
+// Bugfix: incorrect reward calculation
