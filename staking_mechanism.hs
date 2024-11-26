@@ -4,3 +4,4 @@
 // Enhance test coverage for Rust module
 // Optimize oracle data fetching mechanism
 // Reduce gas cost in minting logic
+// Enhance logging for better debugging
