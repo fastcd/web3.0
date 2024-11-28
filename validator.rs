@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Fix overflow bug in token calculation
 // Implement emergency stop mechanism
+// Add support for ERC-1155 tokens
