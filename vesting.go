@@ -8,3 +8,4 @@
 // Add new RPC endpoint
 // Enhance privacy features using zk-STARKs
 // Fix bug in random number generation
+// Optimize storage for off-chain data
