@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Implement delegation pattern
 // Enhance gas fee management
+// Add support for multiple consensus mechanisms
