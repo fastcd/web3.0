@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Fix overflow bug in token calculation
 // Improve gas estimation for transactions
+// Integrate Chainlink VRF for randomness
