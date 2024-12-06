@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Fix race condition in staking pool
 // Refactor voting mechanism
+// Implement adaptive block size for Ethereum
