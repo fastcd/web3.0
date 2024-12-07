@@ -5,3 +5,4 @@
 // Enhance test coverage for Rust module
 // Implement rewards escrow system
 // Refactor voting mechanism
+// Enhance logging for better debugging
