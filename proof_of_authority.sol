@@ -2,3 +2,4 @@
 // Add support for ERC-1155 tokens
 // Add new feature: on-chain governance
 // Add multi-sig wallet functionality
+// Refactor voting mechanism
