@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Integrate IPFS for storage
 // Integrate zk-rollups for scaling
+// Enhance contract initialization process
