@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Fix compatibility with MetaMask
 // Optimize oracle data fetching mechanism
+// Fix issue with multi-chain transactions
