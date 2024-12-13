@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Add governance proposal expiration feature
 // Integrate zk-rollups for scaling
+// Enhance security checks
