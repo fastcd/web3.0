@@ -6,3 +6,4 @@
 // Enhance security checks
 // Improve token burning mechanism
 // Refactor voting mechanism
+// Bugfix: incorrect reward calculation
