@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Improve contract state management
 // Implement delegation pattern
+// Implement cross-chain bridge
