@@ -2,3 +2,4 @@
 // Implement reward distribution feature
 // Improve API rate limiting
 // Integrate IPFS for storage
+// Improve error handling in transaction flow
