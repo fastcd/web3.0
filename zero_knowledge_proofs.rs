@@ -2,3 +2,4 @@
 // Fix overflow bug in token calculation
 // Improve token burning mechanism
 // Implement liquidity pool staking mechanism
+// Add slashing mechanism for malicious actors
