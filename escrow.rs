@@ -10,3 +10,4 @@
 // Fix interoperability issues with other blockchains
 // Implement delegation pattern
 // Code cleanup and documentation update
+// Optimize WASM compilation for Go contracts
