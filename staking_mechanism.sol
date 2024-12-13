@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve contract state management
 // Refactor reward pooling algorithm
+// Add support for ERC-721A tokens
