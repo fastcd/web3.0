@@ -3,3 +3,4 @@
 // Upgrade to latest Solidity version
 // Fix deserialization bug in Haskell code
 // Implement delegation pattern
+// Implement adaptive block size for Ethereum
