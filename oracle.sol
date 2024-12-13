@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Optimize WASM compilation for Go contracts
 // Optimize oracle data fetching mechanism
+// Fix overflow bug in token calculation
