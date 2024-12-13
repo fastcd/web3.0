@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize proof-of-stake validation
 // Fix bug in random number generation
+// Add fallback mechanism in Solidity contract
