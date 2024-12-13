@@ -7,3 +7,4 @@
 // Improve token burning mechanism
 // Refactor voting mechanism
 // Bugfix: incorrect reward calculation
+// Implement delegation pattern
