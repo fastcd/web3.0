@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Enhance gas fee management
 // Enhance developer documentation
+// Fix memory leak in Rust smart contract
