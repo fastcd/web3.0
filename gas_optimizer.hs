@@ -10,3 +10,4 @@
 // Implement delegation pattern
 // Update testing framework for Solidity
 // Integrate IPFS for storage
+// Implement delegation pattern
