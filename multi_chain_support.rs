@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Add new RPC endpoint
 // Implement cross-chain bridge
+// Fix memory leak in Rust smart contract
