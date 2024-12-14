@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles
 // Update smart contract tests
 // Add multi-sig wallet functionality
+// Enhance privacy features using zk-STARKs
