@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Enhance privacy features using zk-STARKs
 // Add new RPC endpoint
+// Implement cross-chain bridge
