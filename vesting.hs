@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Implement reward distribution feature
 // Fix overflow bug in token calculation
+// Add new feature: on-chain governance
