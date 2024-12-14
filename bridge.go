@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix memory leak in Rust smart contract
 // Optimize oracle data fetching mechanism
+// Refactor reward pooling algorithm
