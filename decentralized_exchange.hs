@@ -7,3 +7,4 @@
 // Fix security vulnerability in random number generation
 // Update dependencies for Vyper contract
 // Add unit tests for staking module
+// Add unit tests for staking module
