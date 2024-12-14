@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Implement cross-chain bridge
 // Optimize hashing algorithm
+// Refactor staking logic
