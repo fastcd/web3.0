@@ -6,3 +6,4 @@
 // Implement rewards escrow system
 // Implement on-chain identity verification
 // Implement dynamic fee adjustment
+// Fix issue in token vesting logic
