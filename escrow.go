@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add fallback mechanism in Solidity contract
 // Fix edge case in unstaking logic
+// Add multi-sig wallet functionality
