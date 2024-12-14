@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Integrate Chainlink oracles
 // Update smart contract tests
+// Add multi-sig wallet functionality
