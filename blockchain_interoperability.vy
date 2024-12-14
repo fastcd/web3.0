@@ -2,3 +2,4 @@
 // Refactor validator reward system
 // Add batch processing for transactions
 // Refactor staking logic
+// Add slashing mechanism for malicious actors
