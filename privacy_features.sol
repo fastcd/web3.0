@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Enhance developer documentation
 // Add slashing mechanism for malicious actors
+// Implement on-chain identity verification
