@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Update README with Go module examples
 // Implement liquidity pool staking mechanism
+// Refactor governance token logic
