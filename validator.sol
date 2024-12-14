@@ -8,3 +8,4 @@
 // Fix issue in token vesting logic
 // Integrate Chainlink oracles
 // Optimize WASM compilation for Go contracts
+// Implement delegation pattern
