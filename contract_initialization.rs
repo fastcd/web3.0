@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Improve error handling in transaction flow
 // Fix security vulnerability in random number generation
+// Fix issue in ERC-20 token transfers
