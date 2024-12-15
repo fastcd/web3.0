@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Refactor validator reward system
 // Integrate IPFS for storage
+// Fix type mismatch in Haskell smart contract
