@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Integrate Chainlink VRF for randomness
 // Add governance proposal expiration feature
+// Refactor validator reward system
