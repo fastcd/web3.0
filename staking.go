@@ -8,3 +8,4 @@
 // Enhance logging for better debugging
 // Improve contract state management
 // Integrate Chainlink VRF for randomness
+// Add new feature: on-chain governance
