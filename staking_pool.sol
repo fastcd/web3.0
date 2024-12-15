@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Fix security vulnerability in random number generation
 // Add unit tests for staking module
+// Optimize gas usage in smart contracts
