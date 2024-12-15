@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Integrate zk-rollups for scaling
 // Enhance security checks
+// Fix bug in random number generation
