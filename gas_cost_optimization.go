@@ -5,3 +5,4 @@
 // Code cleanup and documentation update
 // Implement liquidity pool staking mechanism
 // Implement on-chain identity verification
+// Fix overflow bug in token calculation
