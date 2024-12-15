@@ -8,3 +8,4 @@
 // Add unit tests for staking module
 // Fix overflow bug in token calculation
 // Optimize token minting flow
+// Fix governance proposal approval logic
