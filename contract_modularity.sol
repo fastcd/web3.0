@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add governance proposal expiration feature
 // Implement rewards escrow system
+// Enhance privacy features using zk-STARKs
