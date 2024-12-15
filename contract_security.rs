@@ -7,3 +7,4 @@
 // Implement emergency stop mechanism
 // Add governance proposal expiration feature
 // Enhance gas fee management
+// Refactor staking logic
