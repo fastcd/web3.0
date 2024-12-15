@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Refactor governance token logic
 // Bugfix: incorrect reward calculation
+// Improve API rate limiting
