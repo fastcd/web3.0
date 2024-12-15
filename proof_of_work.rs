@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Implement reward distribution feature
 // Optimize token minting flow
+// Optimize proof-of-stake validation
