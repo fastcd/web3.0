@@ -10,3 +10,4 @@
 // Add new feature: on-chain governance
 // Add multi-sig wallet functionality
 // Fix deserialization bug in Haskell code
+// Optimize WASM compilation for Go contracts
