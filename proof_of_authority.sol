@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Refactor voting mechanism
 // Fix compatibility with MetaMask
+// Enhance logging for better debugging
