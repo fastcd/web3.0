@@ -13,3 +13,4 @@
 // Implement reward distribution feature
 // Improve contract state management
 // Implement liquidity pool staking mechanism
+// Fix interoperability issues with other blockchains
