@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Add batch processing for transactions
 // Integrate IPFS for storage
+// Fix overflow bug in token calculation
