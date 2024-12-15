@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Implement rewards escrow system
 // Add multi-sig wallet functionality
+// Add unit tests for staking module
