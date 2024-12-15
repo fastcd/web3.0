@@ -5,3 +5,4 @@
 // Optimize oracle data fetching mechanism
 // Reduce gas cost in minting logic
 // Enhance logging for better debugging
+// Add fallback mechanism in Solidity contract
