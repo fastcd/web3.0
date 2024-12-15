@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Enhance transaction monitoring
 // Implement cross-chain bridge
+// Refactor contract to use EIP-712 signatures
