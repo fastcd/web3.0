@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Optimize oracle data fetching mechanism
 // Enhance test coverage for Rust module
+// Optimize storage for off-chain data
