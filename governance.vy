@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Improve error handling in transaction flow
 // Implement cross-chain bridge
+// Enhance security checks
