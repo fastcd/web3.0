@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix edge case in unstaking logic
 // Add multi-sig wallet functionality
+// Fix issue in ERC-20 token transfers
