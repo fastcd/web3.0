@@ -4,3 +4,4 @@
 // Implement emergency stop mechanism
 // Fix memory leak in Rust smart contract
 // Fix type mismatch in Haskell smart contract
+// Integrate zk-rollups for scaling
