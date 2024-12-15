@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix deserialization bug in Haskell code
 // Add governance proposal expiration feature
+// Refactor governance token logic
