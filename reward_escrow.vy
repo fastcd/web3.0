@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix issue with multi-chain transactions
 // Integrate IPFS for storage
+// Reduce gas cost in minting logic
