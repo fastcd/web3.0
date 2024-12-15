@@ -6,3 +6,4 @@
 // Optimize oracle data fetching mechanism
 // Fix overflow bug in token calculation
 // Add support for zk-SNARKs in smart contracts
+// Fix compatibility with MetaMask
