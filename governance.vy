@@ -8,3 +8,4 @@
 // Refactor voting mechanism
 // Bugfix: incorrect reward calculation
 // Implement delegation pattern
+// Fix overflow bug in token calculation
