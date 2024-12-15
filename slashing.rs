@@ -6,3 +6,4 @@
 // Fix deserialization bug in Haskell code
 // Update smart contract tests
 // Enhance logging for better debugging
+// Optimize proof-of-stake validation
