@@ -10,3 +10,4 @@
 // Bugfix: incorrect reward calculation
 // Fix compatibility with MetaMask
 // Fix security vulnerability in random number generation
+// Refactor storage layout for better efficiency
