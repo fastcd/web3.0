@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Code cleanup and documentation update
 // Enhance security checks
+// Reduce gas cost in minting logic
