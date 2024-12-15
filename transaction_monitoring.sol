@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Fix deserialization bug in Haskell code
 // Add new RPC endpoint
+// Add new feature: on-chain governance
