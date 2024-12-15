@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Fix bug in random number generation
 // Add fallback mechanism in Solidity contract
+// Enhance logging for better debugging
