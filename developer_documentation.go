@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Fix deserialization bug in Haskell code
 // Add support for multiple consensus mechanisms
+// Add support for multiple consensus mechanisms
