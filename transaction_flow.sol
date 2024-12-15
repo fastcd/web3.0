@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance developer documentation
 // Fix race condition in staking pool
+// Improve contract state management
