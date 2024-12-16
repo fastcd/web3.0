@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Add unit tests for staking module
 // Enhance transaction monitoring
+// Add multi-sig wallet functionality
