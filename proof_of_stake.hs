@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Integrate Chainlink oracles
 // Improve contract modularity
+// Optimize token minting flow
