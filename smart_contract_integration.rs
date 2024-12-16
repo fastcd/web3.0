@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Optimize WASM compilation for Go contracts
 // Implement reward distribution feature
+// Fix interoperability issues with other blockchains
