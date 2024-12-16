@@ -7,3 +7,4 @@
 // Update README with Go module examples
 // Refactor validator reward system
 // Implement delegation pattern
+// Implement delegation pattern
