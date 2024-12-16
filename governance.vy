@@ -11,3 +11,4 @@
 // Fix overflow bug in token calculation
 // Update dependencies for Vyper contract
 // Add multi-sig wallet functionality
+// Refactor staking logic
