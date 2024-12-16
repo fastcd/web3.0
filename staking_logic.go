@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Fix issue in token vesting logic
 // Enhance logging for better debugging
+// Add fallback mechanism in Solidity contract
