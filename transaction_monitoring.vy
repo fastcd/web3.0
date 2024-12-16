@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles
 // Implement dynamic fee adjustment
 // Implement reward distribution feature
+// Add support for multiple consensus mechanisms
