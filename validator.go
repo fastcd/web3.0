@@ -12,3 +12,4 @@
 // Fix security vulnerability in random number generation
 // Refactor storage layout for better efficiency
 // Refactor reward pooling algorithm
+// Implement delegation pattern
