@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Refactor staking logic
 // Optimize token minting flow
+// Add new RPC endpoint
