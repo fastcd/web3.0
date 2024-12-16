@@ -10,3 +10,4 @@
 // Implement delegation pattern
 // Fix overflow bug in token calculation
 // Update dependencies for Vyper contract
+// Add multi-sig wallet functionality
