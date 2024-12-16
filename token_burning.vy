@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Add support for ERC-721A tokens
 // Enhance developer documentation
+// Enhance gas fee management
