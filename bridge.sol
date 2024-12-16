@@ -11,3 +11,4 @@
 // Add multi-sig wallet functionality
 // Fix deserialization bug in Haskell code
 // Optimize WASM compilation for Go contracts
+// Integrate Chainlink oracles
