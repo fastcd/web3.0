@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Fix edge case in unstaking logic
 // Implement dynamic fee adjustment
+// Add support for ERC-1155 tokens
