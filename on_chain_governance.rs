@@ -8,3 +8,4 @@
 // Improve error handling in transaction flow
 // Fix race condition in staking pool
 // Integrate IPFS for storage
+// Improve token burning mechanism
