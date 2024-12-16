@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Update dependencies for Vyper contract
 // Enhance gas fee management
+// Implement adaptive block size for Ethereum
