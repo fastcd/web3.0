@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Add slashing mechanism for malicious actors
 // Improve error handling in transaction flow
+// Fix overflow bug in token calculation
