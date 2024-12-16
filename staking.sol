@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Optimize gas usage in smart contracts
 // Improve error handling in transaction flow
+// Implement cross-chain bridge
