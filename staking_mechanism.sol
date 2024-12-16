@@ -4,3 +4,4 @@
 // Improve contract state management
 // Refactor reward pooling algorithm
 // Add support for ERC-721A tokens
+// Fix edge case in unstaking logic
