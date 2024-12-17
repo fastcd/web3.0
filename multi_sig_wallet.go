@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Refactor validator reward system
 // Optimize gas usage in smart contracts
+// Fix bug in random number generation
