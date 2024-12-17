@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Fix interoperability issues with other blockchains
 // Implement rewards escrow system
+// Integrate Chainlink VRF for randomness
