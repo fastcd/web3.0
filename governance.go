@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Implement delegation pattern
 // Optimize WASM compilation for Go contracts
+// Fix bug in random number generation
