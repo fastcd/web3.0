@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Fix type mismatch in Haskell smart contract
 // Enhance test coverage for Rust module
+// Integrate IPFS for storage
