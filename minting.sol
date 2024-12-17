@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Add support for ERC-1155 tokens
 // Improve error handling in transaction flow
+// Add new RPC endpoint
