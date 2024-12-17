@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Enhance transaction monitoring
 // Refactor validator reward system
+// Refactor voting mechanism
