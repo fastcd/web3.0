@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Integrate Chainlink VRF for randomness
 // Implement dynamic fee adjustment
+// Add support for zk-SNARKs in smart contracts
