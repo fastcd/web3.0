@@ -6,3 +6,4 @@
 // Fix issue with multi-chain transactions
 // Integrate IPFS for storage
 // Reduce gas cost in minting logic
+// Update testing framework for Solidity
