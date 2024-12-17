@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor validator reward system
 // Optimize contract upgrade process
+// Integrate zk-rollups for scaling
