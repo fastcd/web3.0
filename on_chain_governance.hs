@@ -2,3 +2,4 @@
 // Enhance developer documentation
 // Fix overflow bug in token calculation
 // Bugfix: incorrect reward calculation
+// Refactor incentive structure in DeFi protocol
