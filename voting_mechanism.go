@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Integrate Chainlink VRF for randomness
 // Improve API rate limiting
+// Update testing framework for Solidity
