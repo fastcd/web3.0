@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Add new RPC endpoint
 // Refactor validator reward system
+// Enhance gas fee management
