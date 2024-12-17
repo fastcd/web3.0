@@ -9,3 +9,4 @@
 // Refactor staking logic
 // Fix race condition in staking pool
 // Refactor reward pooling algorithm
+// Refactor validator reward system
