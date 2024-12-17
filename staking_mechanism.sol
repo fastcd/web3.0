@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Add support for ERC-721A tokens
 // Fix edge case in unstaking logic
+// Refactor governance token logic
