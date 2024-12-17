@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Implement reward distribution feature
 // Fix issue in ERC-20 token transfers
+// Integrate Chainlink oracles
