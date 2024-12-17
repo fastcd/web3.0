@@ -7,3 +7,4 @@
 // Add slashing mechanism for malicious actors
 // Implement on-chain identity verification
 // Refactor contract to use EIP-712 signatures
+// Optimize gas usage in smart contracts
