@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Add governance proposal expiration feature
 // Refactor validator reward system
+// Optimize gas usage in smart contracts
