@@ -11,3 +11,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor reward pooling algorithm
 // Fix overflow bug in token calculation
+// Fix transaction replay issue
