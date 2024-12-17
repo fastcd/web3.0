@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Optimize oracle data fetching mechanism
 // Implement on-chain identity verification
+// Refactor staking logic
