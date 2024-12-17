@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Integrate zk-rollups for scaling
 // Improve contract state management
+// Refactor validator reward system
