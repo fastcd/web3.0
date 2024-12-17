@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles
 // Improve contract modularity
 // Optimize token minting flow
+// Add batch processing for transactions
