@@ -3,3 +3,4 @@
 // Enhance logging for better debugging
 // Refactor incentive structure in DeFi protocol
 // Enhance contract initialization process
+// Add multi-sig wallet functionality
