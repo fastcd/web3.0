@@ -3,3 +3,4 @@
 // Upgrade to latest Solidity version
 // Enhance security checks
 // Fix overflow bug in token calculation
+// Integrate zk-rollups for scaling
