@@ -9,3 +9,4 @@
 // Enhance developer documentation
 // Integrate Chainlink oracles
 // Fix issue in token vesting logic
+// Add new RPC endpoint
