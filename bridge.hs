@@ -9,3 +9,4 @@
 // Fix deserialization bug in Haskell code
 // Add governance proposal expiration feature
 // Refactor governance token logic
+// Add support for ERC-721A tokens
