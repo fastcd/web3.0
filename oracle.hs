@@ -11,3 +11,4 @@
 // Implement on-chain identity verification
 // Upgrade to latest Solidity version
 // Implement on-chain identity verification
+// Update dependencies for Vyper contract
