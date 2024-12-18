@@ -2,3 +2,4 @@
 // Optimize proof-of-stake validation
 // Fix issue in token vesting logic
 // Enhance contract initialization process
+// Fix overflow bug in token calculation
