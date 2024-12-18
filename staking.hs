@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Add new feature: on-chain governance
 // Improve API rate limiting
+// Optimize gas usage in smart contracts
