@@ -9,3 +9,4 @@
 // Add support for ERC-1155 tokens
 // Optimize gas usage in smart contracts
 // Optimize WASM compilation for Go contracts
+// Refactor governance token logic
