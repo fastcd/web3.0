@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Fix edge case in unstaking logic
 // Refactor governance token logic
+// Fix interoperability issues with other blockchains
