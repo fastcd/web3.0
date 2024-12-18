@@ -6,3 +6,4 @@
 // Fix type mismatch in Haskell smart contract
 // Enhance test coverage for Rust module
 // Integrate IPFS for storage
+// Fix governance proposal approval logic
