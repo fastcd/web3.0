@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Implement on-chain identity verification
 // Enhance developer documentation
+// Optimize oracle data fetching mechanism
