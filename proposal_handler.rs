@@ -13,3 +13,4 @@
 // Add new feature: on-chain governance
 // Add support for multiple consensus mechanisms
 // Implement liquidity pool staking mechanism
+// Fix race condition in staking pool
