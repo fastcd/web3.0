@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Add support for multiple consensus mechanisms
 // Implement delegation pattern
+// Reduce gas cost in minting logic
