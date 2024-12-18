@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Improve token burning mechanism
 // Implement delegation pattern
+// Refactor staking logic
