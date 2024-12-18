@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Fix transaction replay issue
 // Optimize WASM compilation for Go contracts
+// Improve gas estimation for transactions
