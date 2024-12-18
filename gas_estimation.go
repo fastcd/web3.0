@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Integrate Chainlink oracles
 // Bugfix: incorrect reward calculation
+// Fix compatibility with MetaMask
