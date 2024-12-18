@@ -13,3 +13,4 @@
 // Fix memory leak in Rust smart contract
 // Add support for zk-SNARKs in smart contracts
 // Improve gas estimation for transactions
+// Enhance test coverage for Rust module
