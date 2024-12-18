@@ -5,3 +5,4 @@
 // Add fallback mechanism in Solidity contract
 // Refactor reward pooling algorithm
 // Add new feature: on-chain governance
+// Improve API rate limiting
