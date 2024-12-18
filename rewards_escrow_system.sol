@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Optimize contract upgrade process
 // Integrate zk-rollups for scaling
+// Optimize token minting flow
