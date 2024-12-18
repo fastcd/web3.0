@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Reduce gas cost in minting logic
 // Update testing framework for Solidity
+// Fix issue in token vesting logic
