@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Bugfix: incorrect reward calculation
 // Implement emergency stop mechanism
+// Add governance proposal expiration feature
