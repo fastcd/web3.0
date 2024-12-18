@@ -10,3 +10,4 @@
 // Integrate Chainlink VRF for randomness
 // Add new feature: on-chain governance
 // Optimize token minting flow
+// Update testing framework for Solidity
