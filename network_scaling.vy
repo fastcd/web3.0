@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Fix governance proposal approval logic
 // Add multi-sig wallet functionality
+// Refactor staking logic
