@@ -12,3 +12,4 @@
 // Code cleanup and documentation update
 // Optimize WASM compilation for Go contracts
 // Code cleanup and documentation update
+// Improve contract state management
