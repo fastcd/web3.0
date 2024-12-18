@@ -8,3 +8,4 @@
 // Refactor governance token logic
 // Integrate zk-rollups for scaling
 // Enhance contract initialization process
+// Update smart contract tests
