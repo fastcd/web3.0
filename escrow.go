@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Add multi-sig wallet functionality
 // Fix issue in ERC-20 token transfers
+// Enhance contract initialization process
