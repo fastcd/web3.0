@@ -11,3 +11,4 @@
 // Fix issue in token vesting logic
 // Add new RPC endpoint
 // Add new feature: on-chain governance
+// Add support for multiple consensus mechanisms
