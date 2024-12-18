@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix overflow bug in token calculation
 // Optimize gas usage in smart contracts
+// Improve error handling in transaction flow
