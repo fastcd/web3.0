@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Improve contract state management
 // Refactor validator reward system
+// Improve error handling in transaction flow
