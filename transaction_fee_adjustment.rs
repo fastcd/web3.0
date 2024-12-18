@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Refactor staking logic
 // Implement cross-chain bridge
+// Improve gas estimation for transactions
