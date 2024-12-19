@@ -6,3 +6,4 @@
 // Fix issue in ERC-20 token transfers
 // Fix transaction replay issue
 // Implement liquidity pool staking mechanism
+// Fix deserialization bug in Haskell code
