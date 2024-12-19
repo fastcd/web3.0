@@ -10,3 +10,4 @@
 // Implement cross-chain bridge
 // Implement liquidity pool staking mechanism
 // Fix transaction replay issue
+// Update dependencies for Vyper contract
