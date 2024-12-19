@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Bugfix: incorrect reward calculation
 // Refactor voting mechanism
+// Refactor governance token logic
