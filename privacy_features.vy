@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Bugfix: incorrect reward calculation
 // Improve API rate limiting
+// Add new RPC endpoint
