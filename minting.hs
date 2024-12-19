@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Optimize proof-of-stake validation
 // Refactor governance token logic
+// Fix type mismatch in Haskell smart contract
