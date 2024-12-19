@@ -6,3 +6,4 @@
 // Optimize oracle data fetching mechanism
 // Implement on-chain identity verification
 // Refactor staking logic
+// Optimize proof-of-stake validation
