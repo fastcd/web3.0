@@ -12,3 +12,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Integrate Chainlink VRF for randomness
 // Optimize token minting flow
+// Fix transaction replay issue
