@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Add support for ERC-721A tokens
 // Add unit tests for staking module
+// Refactor storage layout for better efficiency
