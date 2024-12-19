@@ -9,3 +9,4 @@
 // Implement delegation pattern
 // Implement delegation pattern
 // Upgrade to latest Solidity version
+// Refactor incentive structure in DeFi protocol
