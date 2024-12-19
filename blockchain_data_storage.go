@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Optimize WASM compilation for Go contracts
 // Improve gas estimation for transactions
+// Optimize token minting flow
