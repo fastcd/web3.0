@@ -8,3 +8,4 @@
 // Implement on-chain identity verification
 // Refactor contract to use EIP-712 signatures
 // Optimize gas usage in smart contracts
+// Enhance gas fee management
