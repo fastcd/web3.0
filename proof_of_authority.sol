@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Fix compatibility with MetaMask
 // Enhance logging for better debugging
+// Optimize storage for off-chain data
