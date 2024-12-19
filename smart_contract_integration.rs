@@ -8,3 +8,4 @@
 // Optimize WASM compilation for Go contracts
 // Implement reward distribution feature
 // Fix interoperability issues with other blockchains
+// Fix security vulnerability in random number generation
