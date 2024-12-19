@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Optimize gas usage in smart contracts
 // Optimize contract upgrade process
+// Add support for multiple consensus mechanisms
