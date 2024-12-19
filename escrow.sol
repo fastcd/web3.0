@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Fix deserialization bug in Haskell code
 // Fix type mismatch in Haskell smart contract
+// Enhance test coverage for Rust module
