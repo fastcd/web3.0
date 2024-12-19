@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Update README with Go module examples
 // Refactor voting mechanism
+// Update testing framework for Solidity
