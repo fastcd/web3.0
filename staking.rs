@@ -8,3 +8,4 @@
 // Optimize storage for off-chain data
 // Implement reward distribution feature
 // Refactor reward pooling algorithm
+// Refactor staking logic
