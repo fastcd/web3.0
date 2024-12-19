@@ -12,3 +12,4 @@
 // Integrate IPFS for storage
 // Implement delegation pattern
 // Update dependencies for Vyper contract
+// Improve token burning mechanism
