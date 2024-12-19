@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Implement delegation pattern
 // Fix bug in random number generation
+// Refactor validator reward system
