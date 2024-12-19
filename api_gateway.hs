@@ -2,3 +2,4 @@
 // Implement dynamic fee adjustment
 // Fix edge case in unstaking logic
 // Integrate Chainlink VRF for randomness
+// Fix security vulnerability in random number generation
