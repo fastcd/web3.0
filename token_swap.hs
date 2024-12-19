@@ -5,3 +5,4 @@
 // Fix memory leak in Rust smart contract
 // Fix edge case in unstaking logic
 // Fix transaction replay issue
+// Fix deserialization bug in Haskell code
