@@ -8,3 +8,4 @@
 // Add governance proposal expiration feature
 // Enhance gas fee management
 // Refactor staking logic
+// Add new feature: on-chain governance
