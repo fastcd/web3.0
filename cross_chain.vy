@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Fix memory leak in Rust smart contract
 // Implement dynamic fee adjustment
+// Add support for ERC-1155 tokens
