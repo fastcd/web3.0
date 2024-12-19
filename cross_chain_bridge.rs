@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Implement on-chain identity verification
 // Add new RPC endpoint
+// Optimize gas usage in smart contracts
