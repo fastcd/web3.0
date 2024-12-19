@@ -9,3 +9,4 @@
 // Fix compatibility with MetaMask
 // Enhance security checks
 // Improve contract modularity
+// Add support for zk-SNARKs in smart contracts
