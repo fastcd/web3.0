@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve gas estimation for transactions
 // Optimize token minting flow
+// Upgrade to latest Solidity version
