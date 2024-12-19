@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Refactor incentive structure in DeFi protocol
 // Optimize contract upgrade process
+// Add fallback mechanism in Solidity contract
