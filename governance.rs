@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Implement dynamic fee adjustment
 // Fix compatibility with MetaMask
+// Optimize oracle data fetching mechanism
