@@ -11,3 +11,4 @@
 // Fix governance proposal approval logic
 // Optimize storage for off-chain data
 // Improve token burning mechanism
+// Implement cross-chain bridge
