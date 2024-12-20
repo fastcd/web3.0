@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Update dependencies for Vyper contract
 // Implement reward distribution feature
+// Optimize storage for off-chain data
