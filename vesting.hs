@@ -9,3 +9,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement rewards escrow system
 // Implement cross-chain bridge
+// Add new RPC endpoint
