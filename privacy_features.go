@@ -2,3 +2,4 @@
 // Fix issue in token vesting logic
 // Improve gas estimation for transactions
 // Enhance contract initialization process
+// Integrate zk-rollups for scaling
