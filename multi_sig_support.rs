@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Enhance contract initialization process
 // Fix overflow bug in token calculation
+// Fix overflow bug in token calculation
