@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Refactor validator reward system
 // Fix type mismatch in Haskell smart contract
+// Add new RPC endpoint
