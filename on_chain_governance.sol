@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Refactor governance token logic
 // Implement delegation pattern
+// Optimize token minting flow
