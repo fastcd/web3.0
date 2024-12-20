@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles
 // Bugfix: incorrect reward calculation
 // Fix compatibility with MetaMask
+// Enhance contract initialization process
