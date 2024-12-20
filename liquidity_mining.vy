@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Refactor voting mechanism
 // Update smart contract tests
+// Optimize proof-of-stake validation
