@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Optimize WASM compilation for Go contracts
 // Fix bug in random number generation
+// Implement dynamic fee adjustment
