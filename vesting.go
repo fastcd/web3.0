@@ -15,3 +15,4 @@
 // Improve gas estimation for transactions
 // Enhance test coverage for Rust module
 // Add new RPC endpoint
+// Enhance security checks
