@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Fix race condition in staking pool
 // Add governance proposal expiration feature
+// Code cleanup and documentation update
