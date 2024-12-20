@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Optimize hashing algorithm
 // Add slashing mechanism for malicious actors
+// Enhance test coverage for Rust module
