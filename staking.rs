@@ -9,3 +9,4 @@
 // Implement reward distribution feature
 // Refactor reward pooling algorithm
 // Refactor staking logic
+// Implement adaptive block size for Ethereum
