@@ -11,3 +11,4 @@
 // Improve contract modularity
 // Add support for zk-SNARKs in smart contracts
 // Implement on-chain identity verification
+// Add governance proposal expiration feature
