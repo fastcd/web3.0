@@ -6,3 +6,4 @@
 // Refactor validator reward system
 // Add fallback mechanism in Solidity contract
 // Fix interoperability issues with other blockchains
+// Fix memory leak in Rust smart contract
