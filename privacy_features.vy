@@ -5,3 +5,4 @@
 // Bugfix: incorrect reward calculation
 // Improve API rate limiting
 // Add new RPC endpoint
+// Add slashing mechanism for malicious actors
