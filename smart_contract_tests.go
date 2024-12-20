@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Add multi-sig wallet functionality
 // Enhance developer documentation
+// Improve token burning mechanism
