@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Enhance contract initialization process
 // Refactor validator reward system
+// Add new RPC endpoint
