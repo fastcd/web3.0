@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Implement liquidity pool staking mechanism
 // Refactor governance token logic
+// Improve gas estimation for transactions
