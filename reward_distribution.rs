@@ -11,3 +11,4 @@
 // Implement on-chain identity verification
 // Fix overflow bug in token calculation
 // Integrate IPFS for storage
+// Fix compatibility with MetaMask
