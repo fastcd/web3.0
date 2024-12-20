@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Implement cross-chain bridge
 // Improve gas estimation for transactions
+// Add support for ERC-721A tokens
