@@ -8,3 +8,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix race condition in staking pool
 // Integrate IPFS for storage
+// Fix overflow bug in token calculation
