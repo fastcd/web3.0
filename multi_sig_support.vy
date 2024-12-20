@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Improve error handling in transaction flow
 // Optimize hashing algorithm
+// Optimize WASM compilation for Go contracts
