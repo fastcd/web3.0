@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Implement delegation pattern
 // Refactor staking logic
+// Add multi-sig wallet functionality
