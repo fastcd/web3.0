@@ -10,3 +10,4 @@
 // Optimize gas usage in smart contracts
 // Enhance gas fee management
 // Refactor validator reward system
+// Integrate Chainlink VRF for randomness
