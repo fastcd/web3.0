@@ -6,3 +6,4 @@
 // Bugfix: incorrect reward calculation
 // Fix compatibility with MetaMask
 // Enhance contract initialization process
+// Add new feature: on-chain governance
