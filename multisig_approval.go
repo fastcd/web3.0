@@ -2,3 +2,4 @@
 // Fix issue in token vesting logic
 // Fix type mismatch in Haskell smart contract
 // Optimize hashing algorithm
+// Implement reward distribution feature
