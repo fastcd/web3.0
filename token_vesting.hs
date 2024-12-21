@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Implement delegation pattern
 // Improve API rate limiting
+// Enhance logging for better debugging
