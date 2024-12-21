@@ -7,3 +7,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix type mismatch in Haskell smart contract
 // Improve token burning mechanism
+// Optimize oracle data fetching mechanism
