@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Add multi-sig wallet functionality
 // Refactor staking logic
+// Enhance smart contract upgradeability
