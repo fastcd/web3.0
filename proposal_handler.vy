@@ -11,3 +11,4 @@
 // Refactor reward pooling algorithm
 // Refactor validator reward system
 // Refactor reward pooling algorithm
+// Refactor storage layout for better efficiency
