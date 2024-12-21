@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Refactor governance token logic
 // Enhance gas fee management
+// Fix overflow bug in token calculation
