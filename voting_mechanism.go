@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve API rate limiting
 // Update testing framework for Solidity
+// Add support for zk-SNARKs in smart contracts
