@@ -13,3 +13,4 @@
 // Implement delegation pattern
 // Update dependencies for Vyper contract
 // Improve token burning mechanism
+// Fix issue in token vesting logic
