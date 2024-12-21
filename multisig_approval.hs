@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Refactor storage layout for better efficiency
 // Integrate Chainlink oracles
+// Implement delegation pattern
