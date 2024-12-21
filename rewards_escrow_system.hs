@@ -6,3 +6,4 @@
 // Implement on-chain identity verification
 // Optimize contract upgrade process
 // Improve contract state management
+// Refactor validator reward system
