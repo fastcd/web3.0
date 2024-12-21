@@ -6,3 +6,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance smart contract upgradeability
 // Add support for ERC-1155 tokens
+// Fix issue with multi-chain transactions
