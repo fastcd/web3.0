@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Implement rewards escrow system
 // Improve gas estimation for transactions
+// Update smart contract tests
