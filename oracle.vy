@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Implement rewards escrow system
 // Integrate Chainlink VRF for randomness
+// Integrate Chainlink oracles
