@@ -9,3 +9,4 @@
 // Fix deserialization bug in Haskell code
 // Upgrade to latest Solidity version
 // Refactor governance token logic
+// Enhance transaction monitoring
