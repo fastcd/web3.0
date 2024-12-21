@@ -11,3 +11,4 @@
 // Enhance gas fee management
 // Refactor validator reward system
 // Integrate Chainlink VRF for randomness
+// Optimize proof-of-stake validation
