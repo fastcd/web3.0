@@ -6,3 +6,4 @@
 // Add support for multiple consensus mechanisms
 // Implement delegation pattern
 // Reduce gas cost in minting logic
+// Integrate Chainlink oracles
