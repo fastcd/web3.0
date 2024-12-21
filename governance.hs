@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Implement liquidity pool staking mechanism
 // Fix deserialization bug in Haskell code
+// Enhance gas fee management
