@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Refactor voting mechanism
 // Refactor governance token logic
+// Refactor incentive structure in DeFi protocol
