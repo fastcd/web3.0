@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Fix race condition in staking pool
 // Optimize token minting flow
+// Improve gas estimation for transactions
