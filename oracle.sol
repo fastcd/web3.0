@@ -13,3 +13,4 @@
 // Implement on-chain identity verification
 // Add governance proposal expiration feature
 // Optimize gas usage in smart contracts
+// Optimize WASM compilation for Go contracts
