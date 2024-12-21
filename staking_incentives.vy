@@ -4,3 +4,4 @@
 // Enhance transaction monitoring
 // Add multi-sig wallet functionality
 // Update dependencies for Vyper contract
+// Add fallback mechanism in Solidity contract
