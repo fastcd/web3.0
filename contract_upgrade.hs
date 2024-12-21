@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Add multi-sig wallet functionality
 // Improve contract state management
+// Add new RPC endpoint
