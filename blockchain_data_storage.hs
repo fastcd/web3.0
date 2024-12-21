@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Implement liquidity pool staking mechanism
 // Enhance transaction monitoring
+// Fix issue in token vesting logic
