@@ -6,3 +6,4 @@
 // Implement emergency stop mechanism
 // Fix overflow bug in token calculation
 // Improve gas estimation for transactions
+// Fix issue in ERC-20 token transfers
