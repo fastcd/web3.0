@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Fix race condition in staking pool
 // Update README with Go module examples
+// Enhance security checks
