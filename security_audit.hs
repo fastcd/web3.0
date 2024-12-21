@@ -6,3 +6,4 @@
 // Implement emergency stop mechanism
 // Fix race condition in staking pool
 // Refactor validator reward system
+// Implement on-chain identity verification
