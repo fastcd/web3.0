@@ -10,3 +10,4 @@
 // Implement rewards escrow system
 // Implement cross-chain bridge
 // Add new RPC endpoint
+// Refactor storage layout for better efficiency
