@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Add slashing mechanism for malicious actors
 // Implement emergency stop mechanism
+// Add governance proposal expiration feature
