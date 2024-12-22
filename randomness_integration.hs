@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Integrate IPFS for storage
 // Fix overflow bug in token calculation
+// Implement delegation pattern
