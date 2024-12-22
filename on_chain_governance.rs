@@ -10,3 +10,4 @@
 // Integrate IPFS for storage
 // Improve token burning mechanism
 // Upgrade to latest Solidity version
+// Add multi-sig wallet functionality
