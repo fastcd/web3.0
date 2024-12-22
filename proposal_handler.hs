@@ -6,3 +6,4 @@
 // Optimize gas usage in smart contracts
 // Enhance transaction monitoring
 // Update smart contract tests
+// Bugfix: incorrect reward calculation
