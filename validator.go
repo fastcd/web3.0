@@ -13,3 +13,4 @@
 // Refactor storage layout for better efficiency
 // Refactor reward pooling algorithm
 // Implement delegation pattern
+// Improve error handling in transaction flow
