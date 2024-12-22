@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Add unit tests for staking module
 // Integrate IPFS for storage
+// Add batch processing for transactions
