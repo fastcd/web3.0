@@ -6,3 +6,4 @@
 // Fix issue with multi-chain transactions
 // Integrate Chainlink VRF for randomness
 // Optimize WASM compilation for Go contracts
+// Add support for ERC-1155 tokens
