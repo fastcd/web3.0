@@ -11,3 +11,4 @@
 // Implement liquidity pool staking mechanism
 // Fix transaction replay issue
 // Update dependencies for Vyper contract
+// Optimize oracle data fetching mechanism
