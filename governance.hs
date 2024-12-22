@@ -8,3 +8,4 @@
 // Implement liquidity pool staking mechanism
 // Fix deserialization bug in Haskell code
 // Enhance gas fee management
+// Refactor contract to use EIP-712 signatures
