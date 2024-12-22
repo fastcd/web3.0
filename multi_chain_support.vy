@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Integrate IPFS for storage
 // Improve error handling in transaction flow
+// Optimize WASM compilation for Go contracts
