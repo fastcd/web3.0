@@ -10,3 +10,4 @@
 // Refactor reward pooling algorithm
 // Refactor staking logic
 // Implement adaptive block size for Ethereum
+// Add unit tests for staking module
