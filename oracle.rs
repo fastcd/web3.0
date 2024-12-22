@@ -7,3 +7,4 @@
 // Enhance test coverage for Rust module
 // Integrate IPFS for storage
 // Fix governance proposal approval logic
+// Refactor staking logic
