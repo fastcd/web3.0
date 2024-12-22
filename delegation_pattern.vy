@@ -7,3 +7,4 @@
 // Improve API rate limiting
 // Improve gas estimation for transactions
 // Implement adaptive block size for Ethereum
+// Refactor staking logic
