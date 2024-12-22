@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Enhance logging for better debugging
 // Optimize storage for off-chain data
+// Refactor storage layout for better efficiency
