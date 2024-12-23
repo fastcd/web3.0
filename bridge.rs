@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize WASM compilation for Go contracts
 // Add support for ERC-1155 tokens
+// Add fallback mechanism in Solidity contract
