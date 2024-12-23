@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Improve error handling in transaction flow
 // Optimize WASM compilation for Go contracts
+// Fix security vulnerability in random number generation
