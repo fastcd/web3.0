@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Optimize storage for off-chain data
 // Fix issue in token vesting logic
+// Integrate Chainlink VRF for randomness
