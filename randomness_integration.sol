@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Add unit tests for staking module
 // Fix overflow bug in token calculation
+// Optimize gas usage in smart contracts
