@@ -16,3 +16,4 @@
 // Enhance test coverage for Rust module
 // Add new RPC endpoint
 // Enhance security checks
+// Add unit tests for staking module
