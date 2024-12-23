@@ -9,3 +9,4 @@
 // Refactor validator reward system
 // Optimize gas usage in smart contracts
 // Refactor contract to use EIP-712 signatures
+// Code cleanup and documentation update
