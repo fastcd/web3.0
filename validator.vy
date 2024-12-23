@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Refactor reward pooling algorithm
 // Add governance proposal expiration feature
+// Integrate IPFS for storage
