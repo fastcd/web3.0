@@ -5,3 +5,4 @@
 // Fix memory leak in Rust smart contract
 // Fix type mismatch in Haskell smart contract
 // Integrate zk-rollups for scaling
+// Add support for zk-SNARKs in smart contracts
