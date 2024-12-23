@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Update testing framework for Solidity
 // Add support for zk-SNARKs in smart contracts
+// Add new feature: on-chain governance
