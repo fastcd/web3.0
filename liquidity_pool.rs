@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Implement liquidity pool staking mechanism
 // Refactor governance token logic
+// Fix security vulnerability in random number generation
