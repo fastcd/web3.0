@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Bugfix: incorrect reward calculation
 // Fix race condition in staking pool
+// Improve API rate limiting
