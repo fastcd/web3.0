@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Optimize hashing algorithm
 // Enhance transaction monitoring
+// Implement cross-chain bridge
