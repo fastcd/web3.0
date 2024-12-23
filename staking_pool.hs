@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Update smart contract tests
 // Integrate Chainlink VRF for randomness
+// Improve contract state management
