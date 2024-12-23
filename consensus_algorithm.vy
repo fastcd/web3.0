@@ -7,3 +7,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor staking logic
 // Enhance gas fee management
+// Add governance proposal expiration feature
