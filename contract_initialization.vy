@@ -7,3 +7,4 @@
 // Refactor validator reward system
 // Add new RPC endpoint
 // Fix bug in random number generation
+// Fix interoperability issues with other blockchains
