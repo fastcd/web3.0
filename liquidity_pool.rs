@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Implement delegation pattern
 // Implement liquidity pool staking mechanism
+// Refactor governance token logic
