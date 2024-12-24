@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Refactor governance token logic
 // Implement delegation pattern
+// Improve gas estimation for transactions
