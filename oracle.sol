@@ -15,3 +15,4 @@
 // Optimize gas usage in smart contracts
 // Optimize WASM compilation for Go contracts
 // Fix compatibility with MetaMask
+// Integrate Chainlink oracles
