@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Refactor governance token logic
 // Update smart contract tests
+// Reduce gas cost in minting logic
