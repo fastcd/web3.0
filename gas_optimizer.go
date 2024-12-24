@@ -12,3 +12,4 @@
 // Enhance developer documentation
 // Fix edge case in unstaking logic
 // Enhance privacy features using zk-STARKs
+// Fix transaction replay issue
