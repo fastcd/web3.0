@@ -11,3 +11,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix compatibility with MetaMask
 // Fix issue in ERC-20 token transfers
+// Fix overflow bug in token calculation
