@@ -8,3 +8,4 @@
 // Update smart contract tests
 // Bugfix: incorrect reward calculation
 // Add fallback mechanism in Solidity contract
+// Improve token burning mechanism
