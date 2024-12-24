@@ -10,3 +10,4 @@
 // Add fallback mechanism in Solidity contract
 // Improve token burning mechanism
 // Fix overflow bug in token calculation
+// Refactor validator reward system
