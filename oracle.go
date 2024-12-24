@@ -9,3 +9,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve contract modularity
 // Update testing framework for Solidity
+// Fix governance proposal approval logic
