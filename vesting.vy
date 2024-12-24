@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Implement dynamic fee adjustment
 // Fix security vulnerability in random number generation
+// Add support for multiple consensus mechanisms
