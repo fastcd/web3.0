@@ -6,3 +6,4 @@
 // Add unit tests for staking module
 // Optimize gas usage in smart contracts
 // Enhance logging for better debugging
+// Improve token burning mechanism
