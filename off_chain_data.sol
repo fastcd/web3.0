@@ -6,3 +6,4 @@
 // Add support for multiple consensus mechanisms
 // Improve contract state management
 // Implement dynamic fee adjustment
+// Add multi-sig wallet functionality
