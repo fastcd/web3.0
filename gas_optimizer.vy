@@ -10,3 +10,4 @@
 // Integrate IPFS for storage
 // Fix overflow bug in token calculation
 // Implement emergency stop mechanism
+// Refactor staking logic
