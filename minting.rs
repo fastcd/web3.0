@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Optimize proof-of-stake validation
 // Bugfix: incorrect reward calculation
+// Refactor voting mechanism
