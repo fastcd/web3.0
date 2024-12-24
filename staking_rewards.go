@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Upgrade to latest Solidity version
 // Fix deserialization bug in Haskell code
+// Refactor validator reward system
