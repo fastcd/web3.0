@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Add fallback mechanism in Solidity contract
 // Enhance logging for better debugging
+// Enhance contract initialization process
