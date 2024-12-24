@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
 // Integrate Chainlink oracles
+// Reduce gas cost in minting logic
