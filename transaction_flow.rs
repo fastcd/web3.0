@@ -6,3 +6,4 @@
 // Fix type mismatch in Haskell smart contract
 // Integrate zk-rollups for scaling
 // Add support for zk-SNARKs in smart contracts
+// Implement cross-chain bridge
