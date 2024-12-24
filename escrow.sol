@@ -11,3 +11,4 @@
 // Implement rewards escrow system
 // Implement liquidity pool staking mechanism
 // Fix memory leak in Rust smart contract
+// Add new feature: on-chain governance
