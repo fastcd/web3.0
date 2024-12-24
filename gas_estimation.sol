@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Fix edge case in unstaking logic
 // Implement dynamic fee adjustment
+// Enhance privacy features using zk-STARKs
