@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Enhance gas fee management
 // Optimize oracle data fetching mechanism
+// Improve token burning mechanism
