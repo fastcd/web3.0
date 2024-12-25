@@ -12,3 +12,4 @@
 // Fix overflow bug in token calculation
 // Integrate IPFS for storage
 // Fix compatibility with MetaMask
+// Improve error handling in transaction flow
