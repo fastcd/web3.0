@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Improve gas estimation for transactions
 // Enhance smart contract upgradeability
+// Fix governance proposal approval logic
