@@ -12,3 +12,4 @@
 // Add support for ERC-721A tokens
 // Optimize token minting flow
 // Add batch processing for transactions
+// Refactor validator reward system
