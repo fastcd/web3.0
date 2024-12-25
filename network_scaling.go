@@ -3,3 +3,4 @@
 // Implement dynamic fee adjustment
 // Implement reward distribution feature
 // Enhance contract initialization process
+// Update README with Go module examples
