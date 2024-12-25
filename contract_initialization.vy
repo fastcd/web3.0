@@ -9,3 +9,4 @@
 // Fix bug in random number generation
 // Fix interoperability issues with other blockchains
 // Fix compatibility with MetaMask
+// Improve API rate limiting
