@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Update smart contract tests
 // Optimize proof-of-stake validation
+// Enhance gas fee management
