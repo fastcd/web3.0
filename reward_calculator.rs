@@ -15,3 +15,4 @@
 // Fix transaction replay issue
 // Fix edge case in unstaking logic
 // Refactor validator reward system
+// Add governance proposal expiration feature
