@@ -7,3 +7,4 @@
 // Fix bug in random number generation
 // Implement dynamic fee adjustment
 // Integrate IPFS for storage
+// Refactor staking logic
