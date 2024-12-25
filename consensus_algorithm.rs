@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Fix deserialization bug in Haskell code
 // Upgrade to latest Solidity version
+// Fix overflow bug in token calculation
