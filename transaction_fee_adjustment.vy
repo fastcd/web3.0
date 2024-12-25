@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Optimize WASM compilation for Go contracts
 // Add batch processing for transactions
+// Implement on-chain identity verification
