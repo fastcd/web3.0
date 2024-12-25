@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Integrate zk-rollups for scaling
 // Update README with Go module examples
+// Update testing framework for Solidity
