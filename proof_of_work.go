@@ -5,3 +5,4 @@
 // Enhance test coverage for Rust module
 // Add unit tests for staking module
 // Enhance test coverage for Rust module
+// Add multi-sig wallet functionality
