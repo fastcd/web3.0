@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Add slashing mechanism for malicious actors
 // Improve gas estimation for transactions
+// Reduce gas cost in minting logic
