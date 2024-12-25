@@ -8,3 +8,4 @@
 // Refactor staking logic
 // Enhance gas fee management
 // Add governance proposal expiration feature
+// Update testing framework for Solidity
