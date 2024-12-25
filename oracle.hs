@@ -13,3 +13,4 @@
 // Implement on-chain identity verification
 // Update dependencies for Vyper contract
 // Fix overflow bug in token calculation
+// Update smart contract tests
