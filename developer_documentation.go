@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Fix security vulnerability in random number generation
 // Fix memory leak in Rust smart contract
+// Implement reward distribution feature
