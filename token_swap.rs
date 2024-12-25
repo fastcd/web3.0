@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize token minting flow
 // Add new RPC endpoint
+// Integrate IPFS for storage
