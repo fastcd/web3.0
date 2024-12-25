@@ -10,3 +10,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement delegation pattern
 // Optimize oracle data fetching mechanism
+// Implement delegation pattern
