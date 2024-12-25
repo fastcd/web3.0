@@ -17,3 +17,4 @@
 // Fix compatibility with MetaMask
 // Integrate Chainlink oracles
 // Fix memory leak in Rust smart contract
+// Refactor staking logic
