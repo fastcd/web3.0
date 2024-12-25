@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Fix edge case in unstaking logic
 // Enhance privacy features using zk-STARKs
+// Enhance security checks
