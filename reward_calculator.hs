@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Optimize proof-of-stake validation
 // Add unit tests for staking module
+// Enhance test coverage for Rust module
