@@ -8,3 +8,4 @@
 // Add support for ERC-721A tokens
 // Improve API rate limiting
 // Enhance developer documentation
+// Enhance privacy features using zk-STARKs
