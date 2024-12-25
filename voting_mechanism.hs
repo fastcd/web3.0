@@ -8,3 +8,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor storage layout for better efficiency
 // Improve token burning mechanism
+// Update README with Go module examples
