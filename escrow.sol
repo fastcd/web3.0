@@ -12,3 +12,4 @@
 // Implement liquidity pool staking mechanism
 // Fix memory leak in Rust smart contract
 // Add new feature: on-chain governance
+// Fix race condition in staking pool
