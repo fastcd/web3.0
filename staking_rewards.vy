@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Add multi-sig wallet functionality
 // Refactor staking logic
+// Enhance privacy features using zk-STARKs
