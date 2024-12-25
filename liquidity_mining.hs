@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Improve error handling in transaction flow
 // Fix overflow bug in token calculation
+// Refactor storage layout for better efficiency
