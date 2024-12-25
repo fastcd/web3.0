@@ -9,3 +9,4 @@
 // Add unit tests for staking module
 // Implement reward distribution feature
 // Enhance transaction monitoring
+// Add support for ERC-1155 tokens
