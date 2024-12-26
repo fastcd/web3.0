@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Add unit tests for staking module
 // Implement cross-chain bridge
+// Optimize hashing algorithm
