@@ -12,3 +12,4 @@
 // Fix transaction replay issue
 // Update dependencies for Vyper contract
 // Optimize oracle data fetching mechanism
+// Optimize oracle data fetching mechanism
