@@ -10,3 +10,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix issue in ERC-20 token transfers
 // Improve API rate limiting
+// Fix overflow bug in token calculation
