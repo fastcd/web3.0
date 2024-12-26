@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize hashing algorithm
 // Refactor validator reward system
+// Implement delegation pattern
