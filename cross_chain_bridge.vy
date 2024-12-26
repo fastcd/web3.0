@@ -8,3 +8,4 @@
 // Improve error handling in transaction flow
 // Integrate zk-rollups for scaling
 // Implement on-chain identity verification
+// Fix type mismatch in Haskell smart contract
