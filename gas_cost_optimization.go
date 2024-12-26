@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Enhance logging for better debugging
 // Refactor storage layout for better efficiency
+// Fix overflow bug in token calculation
