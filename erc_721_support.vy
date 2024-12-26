@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Optimize WASM compilation for Go contracts
 // Optimize oracle data fetching mechanism
+// Add fallback mechanism in Solidity contract
