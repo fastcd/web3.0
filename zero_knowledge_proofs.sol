@@ -6,3 +6,4 @@
 // Code cleanup and documentation update
 // Enhance security checks
 // Reduce gas cost in minting logic
+// Implement on-chain identity verification
