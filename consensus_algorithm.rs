@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Upgrade to latest Solidity version
 // Fix overflow bug in token calculation
+// Implement emergency stop mechanism
