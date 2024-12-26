@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Add support for multiple consensus mechanisms
 // Bugfix: incorrect reward calculation
+// Fix issue with multi-chain transactions
