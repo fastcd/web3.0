@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate Chainlink oracles
 // Reduce gas cost in minting logic
+// Fix memory leak in Rust smart contract
