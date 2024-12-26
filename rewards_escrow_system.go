@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Fix overflow bug in token calculation
 // Improve contract modularity
+// Enhance logging for better debugging
