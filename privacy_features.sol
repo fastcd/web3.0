@@ -13,3 +13,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize proof-of-stake validation
 // Implement rewards escrow system
+// Fix type mismatch in Haskell smart contract
