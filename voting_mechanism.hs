@@ -9,3 +9,4 @@
 // Refactor storage layout for better efficiency
 // Improve token burning mechanism
 // Update README with Go module examples
+// Optimize oracle data fetching mechanism
