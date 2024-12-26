@@ -8,3 +8,4 @@
 // Reduce gas cost in minting logic
 // Enhance transaction monitoring
 // Implement rewards escrow system
+// Fix overflow bug in token calculation
