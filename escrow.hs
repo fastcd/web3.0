@@ -9,3 +9,4 @@
 // Optimize token minting flow
 // Add batch processing for transactions
 // Improve API rate limiting
+// Fix governance proposal approval logic
