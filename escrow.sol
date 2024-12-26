@@ -14,3 +14,4 @@
 // Add new feature: on-chain governance
 // Fix race condition in staking pool
 // Fix edge case in unstaking logic
+// Reduce gas cost in minting logic
