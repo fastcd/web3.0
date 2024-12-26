@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Enhance logging for better debugging
 // Improve contract modularity
+// Add slashing mechanism for malicious actors
