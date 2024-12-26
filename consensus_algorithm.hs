@@ -8,3 +8,4 @@
 // Fix compatibility with MetaMask
 // Enhance smart contract upgradeability
 // Upgrade to latest Solidity version
+// Optimize WASM compilation for Go contracts
