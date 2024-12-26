@@ -8,3 +8,4 @@
 // Add batch processing for transactions
 // Optimize proof-of-stake validation
 // Improve token burning mechanism
+// Add new RPC endpoint
