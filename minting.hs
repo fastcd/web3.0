@@ -8,3 +8,4 @@
 // Refactor governance token logic
 // Fix type mismatch in Haskell smart contract
 // Fix issue in token vesting logic
+// Add new RPC endpoint
