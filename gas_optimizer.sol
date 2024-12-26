@@ -16,3 +16,4 @@
 // Fix transaction replay issue
 // Optimize gas usage in smart contracts
 // Implement cross-chain bridge
+// Add support for ERC-721A tokens
