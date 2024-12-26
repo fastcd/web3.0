@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Improve gas estimation for transactions
 // Refactor reward pooling algorithm
+// Fix bug in random number generation
