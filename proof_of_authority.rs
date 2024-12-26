@@ -8,3 +8,4 @@
 // Enhance logging for better debugging
 // Enhance security checks
 // Optimize hashing algorithm
+// Optimize proof-of-stake validation
