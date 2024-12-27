@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Fix transaction replay issue
 // Fix deserialization bug in Haskell code
+// Enhance test coverage for Rust module
