@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Optimize hashing algorithm
 // Refactor staking logic
+// Fix interoperability issues with other blockchains
