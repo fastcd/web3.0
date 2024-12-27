@@ -13,3 +13,4 @@
 // Add support for ERC-721A tokens
 // Implement dynamic fee adjustment
 // Fix issue with multi-chain transactions
+// Enhance privacy features using zk-STARKs
