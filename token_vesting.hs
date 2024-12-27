@@ -2,3 +2,4 @@
 // Implement adaptive block size for Ethereum
 // Fix type mismatch in Haskell smart contract
 // Integrate Chainlink VRF for randomness
+// Implement delegation pattern
