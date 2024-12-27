@@ -7,3 +7,4 @@
 // Add new feature: on-chain governance
 // Improve API rate limiting
 // Optimize gas usage in smart contracts
+// Implement on-chain identity verification
