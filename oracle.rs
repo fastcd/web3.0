@@ -9,3 +9,4 @@
 // Fix governance proposal approval logic
 // Refactor staking logic
 // Fix transaction replay issue
+// Fix type mismatch in Haskell smart contract
