@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Integrate IPFS for storage
 // Fix compatibility with MetaMask
+// Fix issue with multi-chain transactions
