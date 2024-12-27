@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance transaction monitoring
 // Refactor staking logic
+// Add support for ERC-1155 tokens
