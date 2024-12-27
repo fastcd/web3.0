@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Update smart contract tests
 // Integrate IPFS for storage
+// Update dependencies for Vyper contract
