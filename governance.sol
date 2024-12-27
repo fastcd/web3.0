@@ -7,3 +7,4 @@
 // Enhance developer documentation
 // Enhance contract initialization process
 // Fix issue in ERC-20 token transfers
+// Optimize storage for off-chain data
