@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Refactor validator reward system
 // Improve contract modularity
+// Fix race condition in staking pool
