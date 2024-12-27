@@ -13,3 +13,4 @@
 // Update dependencies for Vyper contract
 // Optimize oracle data fetching mechanism
 // Optimize oracle data fetching mechanism
+// Refactor storage layout for better efficiency
