@@ -8,3 +8,4 @@
 // Refactor governance token logic
 // Fix interoperability issues with other blockchains
 // Refactor reward pooling algorithm
+// Optimize storage for off-chain data
