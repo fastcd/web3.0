@@ -8,3 +8,4 @@
 // Improve API rate limiting
 // Integrate Chainlink VRF for randomness
 // Enhance developer documentation
+// Add new feature: on-chain governance
