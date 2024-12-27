@@ -19,3 +19,4 @@
 // Fix memory leak in Rust smart contract
 // Refactor staking logic
 // Refactor staking logic
+// Bugfix: incorrect reward calculation
