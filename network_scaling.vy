@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Refactor staking logic
 // Enhance smart contract upgradeability
+// Fix bug in random number generation
