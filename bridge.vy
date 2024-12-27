@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Refactor reward pooling algorithm
 // Fix bug in random number generation
+// Add new RPC endpoint
