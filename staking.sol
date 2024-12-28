@@ -8,3 +8,4 @@
 // Implement cross-chain bridge
 // Optimize hashing algorithm
 // Upgrade to latest Solidity version
+// Improve gas estimation for transactions
