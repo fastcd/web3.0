@@ -14,3 +14,4 @@
 // Optimize oracle data fetching mechanism
 // Optimize oracle data fetching mechanism
 // Refactor storage layout for better efficiency
+// Add new feature: on-chain governance
