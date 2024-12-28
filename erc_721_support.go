@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Add new RPC endpoint
 // Update README with Go module examples
+// Add support for ERC-721A tokens
