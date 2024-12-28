@@ -12,3 +12,4 @@
 // Add new RPC endpoint
 // Refactor storage layout for better efficiency
 // Update dependencies for Vyper contract
+// Refactor staking logic
