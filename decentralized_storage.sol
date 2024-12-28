@@ -6,3 +6,4 @@
 // Implement rewards escrow system
 // Update README with Go module examples
 // Integrate IPFS for storage
+// Fix deserialization bug in Haskell code
