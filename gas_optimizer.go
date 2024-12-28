@@ -14,3 +14,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix transaction replay issue
 // Optimize gas usage in smart contracts
+// Refactor staking logic
