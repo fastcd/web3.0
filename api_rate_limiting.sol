@@ -5,3 +5,4 @@
 // Enhance security checks
 // Fix governance proposal approval logic
 // Code cleanup and documentation update
+// Fix overflow bug in token calculation
