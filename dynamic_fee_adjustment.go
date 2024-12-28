@@ -2,3 +2,4 @@
 // Fix type mismatch in Haskell smart contract
 // Update README with Go module examples
 // Upgrade to latest Solidity version
+// Fix governance proposal approval logic
