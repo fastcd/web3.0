@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Implement reward distribution feature
 // Fix overflow bug in token calculation
+// Integrate zk-rollups for scaling
