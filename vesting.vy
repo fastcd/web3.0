@@ -8,3 +8,4 @@
 // Add support for multiple consensus mechanisms
 // Add fallback mechanism in Solidity contract
 // Implement dynamic fee adjustment
+// Refactor storage layout for better efficiency
