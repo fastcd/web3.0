@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance security checks
 // Refactor voting mechanism
+// Add new feature: on-chain governance
