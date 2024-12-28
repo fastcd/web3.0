@@ -13,3 +13,4 @@
 // Refactor reward pooling algorithm
 // Refactor storage layout for better efficiency
 // Fix bug in random number generation
+// Implement delegation pattern
