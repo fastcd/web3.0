@@ -4,3 +4,4 @@
 // Fix memory leak in Rust smart contract
 // Fix memory leak in Rust smart contract
 // Improve contract modularity
+// Upgrade to latest Solidity version
