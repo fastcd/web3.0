@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Refactor governance token logic
 // Integrate Chainlink oracles
+// Optimize gas usage in smart contracts
