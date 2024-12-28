@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance smart contract upgradeability
 // Improve token burning mechanism
+// Fix type mismatch in Haskell smart contract
