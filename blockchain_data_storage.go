@@ -10,3 +10,4 @@
 // Code cleanup and documentation update
 // Fix edge case in unstaking logic
 // Code cleanup and documentation update
+// Add fallback mechanism in Solidity contract
