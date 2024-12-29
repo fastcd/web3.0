@@ -8,3 +8,4 @@
 // Fix edge case in unstaking logic
 // Fix security vulnerability in random number generation
 // Enhance security checks
+// Add fallback mechanism in Solidity contract
