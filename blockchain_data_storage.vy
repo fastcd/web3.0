@@ -2,3 +2,4 @@
 // Implement cross-chain bridge
 // Bugfix: incorrect reward calculation
 // Update README with Go module examples
+// Improve token burning mechanism
