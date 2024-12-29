@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Add support for ERC-1155 tokens
 // Improve gas estimation for transactions
+// Fix issue with multi-chain transactions
