@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Fix bug in random number generation
 // Fix bug in random number generation
+// Bugfix: incorrect reward calculation
