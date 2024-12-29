@@ -8,3 +8,4 @@
 // Improve gas estimation for transactions
 // Implement adaptive block size for Ethereum
 // Refactor staking logic
+// Fix bug in random number generation
