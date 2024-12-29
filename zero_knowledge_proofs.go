@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Refactor incentive structure in DeFi protocol
 // Add new RPC endpoint
+// Implement delegation pattern
