@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Update smart contract tests
 // Code cleanup and documentation update
+// Implement on-chain identity verification
