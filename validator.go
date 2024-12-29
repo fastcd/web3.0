@@ -14,3 +14,4 @@
 // Refactor reward pooling algorithm
 // Implement delegation pattern
 // Improve error handling in transaction flow
+// Implement reward distribution feature
