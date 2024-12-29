@@ -5,3 +5,4 @@
 // Implement cross-chain bridge
 // Refactor validator reward system
 // Fix memory leak in Rust smart contract
+// Integrate IPFS for storage
