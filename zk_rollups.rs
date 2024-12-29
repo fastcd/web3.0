@@ -11,3 +11,4 @@
 // Enhance logging for better debugging
 // Optimize contract upgrade process
 // Add new feature: on-chain governance
+// Refactor validator reward system
