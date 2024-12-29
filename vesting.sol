@@ -7,3 +7,4 @@
 // Fix issue in token vesting logic
 // Add multi-sig wallet functionality
 // Optimize proof-of-stake validation
+// Fix overflow bug in token calculation
