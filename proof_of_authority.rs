@@ -9,3 +9,4 @@
 // Enhance security checks
 // Optimize hashing algorithm
 // Optimize proof-of-stake validation
+// Bugfix: incorrect reward calculation
