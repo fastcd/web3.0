@@ -6,3 +6,4 @@
 // Update smart contract tests
 // Integrate Chainlink VRF for randomness
 // Improve contract state management
+// Enhance developer documentation
