@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Add support for ERC-721A tokens
 // Enhance gas fee management
+// Add governance proposal expiration feature
