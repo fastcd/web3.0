@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Improve token burning mechanism
 // Fix type mismatch in Haskell smart contract
+// Add governance proposal expiration feature
