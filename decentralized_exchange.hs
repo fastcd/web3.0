@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Implement cross-chain bridge
 // Optimize hashing algorithm
+// Integrate Chainlink oracles
