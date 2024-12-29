@@ -7,3 +7,4 @@
 // Enhance test coverage for Rust module
 // Improve gas estimation for transactions
 // Refactor reward pooling algorithm
+// Add multi-sig wallet functionality
