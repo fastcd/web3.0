@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Fix governance proposal approval logic
 // Fix issue in token vesting logic
+// Refactor reward pooling algorithm
