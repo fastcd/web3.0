@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Fix edge case in unstaking logic
 // Fix overflow bug in token calculation
+// Refactor voting mechanism
