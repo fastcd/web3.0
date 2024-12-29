@@ -15,3 +15,4 @@
 // Fix transaction replay issue
 // Optimize gas usage in smart contracts
 // Refactor staking logic
+// Reduce gas cost in minting logic
