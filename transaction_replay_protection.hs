@@ -9,3 +9,4 @@
 // Improve token burning mechanism
 // Add support for ERC-721A tokens
 // Fix security vulnerability in random number generation
+// Refactor voting mechanism
