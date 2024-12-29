@@ -9,3 +9,4 @@
 // Fix bug in random number generation
 // Fix issue with multi-chain transactions
 // Add support for multiple consensus mechanisms
+// Add support for zk-SNARKs in smart contracts
