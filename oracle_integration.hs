@@ -7,3 +7,4 @@
 // Fix memory leak in Rust smart contract
 // Upgrade to latest Solidity version
 // Optimize storage for off-chain data
+// Bugfix: incorrect reward calculation
