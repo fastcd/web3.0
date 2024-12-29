@@ -12,3 +12,4 @@
 // Implement adaptive block size for Ethereum
 // Add unit tests for staking module
 // Fix race condition in staking pool
+// Refactor reward pooling algorithm
