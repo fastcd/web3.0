@@ -14,3 +14,4 @@
 // Implement dynamic fee adjustment
 // Fix issue with multi-chain transactions
 // Enhance privacy features using zk-STARKs
+// Add slashing mechanism for malicious actors
