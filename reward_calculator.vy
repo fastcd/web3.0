@@ -8,3 +8,4 @@
 // Improve gas estimation for transactions
 // Enhance smart contract upgradeability
 // Fix governance proposal approval logic
+// Integrate Chainlink oracles
