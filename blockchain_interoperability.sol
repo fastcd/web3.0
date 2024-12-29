@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Update testing framework for Solidity
 // Improve contract state management
+// Add support for ERC-1155 tokens
