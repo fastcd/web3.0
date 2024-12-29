@@ -8,3 +8,4 @@
 // Update README with Go module examples
 // Add multi-sig wallet functionality
 // Enhance transaction monitoring
+// Fix security vulnerability in random number generation
