@@ -9,3 +9,4 @@
 // Add support for ERC-721A tokens
 // Implement reward distribution feature
 // Fix edge case in unstaking logic
+// Implement delegation pattern
