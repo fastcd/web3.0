@@ -5,3 +5,4 @@
 // Optimize contract upgrade process
 // Improve gas estimation for transactions
 // Add unit tests for staking module
+// Implement rewards escrow system
