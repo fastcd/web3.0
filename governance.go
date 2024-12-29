@@ -8,3 +8,4 @@
 // Implement dynamic fee adjustment
 // Integrate IPFS for storage
 // Refactor staking logic
+// Integrate Chainlink oracles
