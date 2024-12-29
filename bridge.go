@@ -15,3 +15,4 @@
 // Enhance security checks
 // Fix issue with multi-chain transactions
 // Refactor incentive structure in DeFi protocol
+// Add support for ERC-1155 tokens
