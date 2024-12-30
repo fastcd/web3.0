@@ -13,3 +13,4 @@
 // Add multi-sig wallet functionality
 // Refactor staking logic
 // Optimize gas usage in smart contracts
+// Improve token burning mechanism
