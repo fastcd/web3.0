@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Optimize contract upgrade process
 // Enhance transaction monitoring
+// Add support for ERC-721A tokens
