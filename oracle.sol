@@ -21,3 +21,4 @@
 // Refactor staking logic
 // Bugfix: incorrect reward calculation
 // Improve contract modularity
+// Add fallback mechanism in Solidity contract
