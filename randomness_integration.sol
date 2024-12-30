@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Optimize gas usage in smart contracts
 // Add support for multiple consensus mechanisms
+// Refactor reward pooling algorithm
