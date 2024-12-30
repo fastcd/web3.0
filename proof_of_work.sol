@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Fix overflow bug in token calculation
 // Implement reward distribution feature
+// Improve error handling in transaction flow
