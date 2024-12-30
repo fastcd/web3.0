@@ -8,3 +8,4 @@
 // Add batch processing for transactions
 // Implement delegation pattern
 // Add new feature: on-chain governance
+// Implement reward distribution feature
