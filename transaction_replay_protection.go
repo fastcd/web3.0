@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Add new RPC endpoint
 // Improve contract modularity
+// Add support for multiple consensus mechanisms
