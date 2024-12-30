@@ -8,3 +8,4 @@
 // Add multi-sig wallet functionality
 // Optimize proof-of-stake validation
 // Fix overflow bug in token calculation
+// Refactor governance token logic
