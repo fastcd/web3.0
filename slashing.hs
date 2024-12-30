@@ -8,3 +8,4 @@
 // Reduce gas cost in minting logic
 // Integrate Chainlink oracles
 // Fix overflow bug in token calculation
+// Update README with Go module examples
