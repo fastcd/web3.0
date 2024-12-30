@@ -11,3 +11,4 @@
 // Integrate IPFS for storage
 // Fix issue in ERC-20 token transfers
 // Refactor governance token logic
+// Fix issue in ERC-20 token transfers
