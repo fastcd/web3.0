@@ -8,3 +8,4 @@
 // Enhance logging for better debugging
 // Enhance contract initialization process
 // Refactor incentive structure in DeFi protocol
+// Implement cross-chain bridge
