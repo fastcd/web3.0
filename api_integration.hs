@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add governance proposal expiration feature
 // Fix compatibility with MetaMask
+// Refactor voting mechanism
