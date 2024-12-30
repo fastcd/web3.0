@@ -9,3 +9,4 @@
 // Integrate IPFS for storage
 // Update dependencies for Vyper contract
 // Enhance logging for better debugging
+// Enhance transaction monitoring
