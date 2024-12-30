@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Fix bug in random number generation
 // Add new RPC endpoint
+// Add support for ERC-1155 tokens
