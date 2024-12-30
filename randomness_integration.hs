@@ -9,3 +9,4 @@
 // Implement delegation pattern
 // Implement adaptive block size for Ethereum
 // Optimize gas usage in smart contracts
+// Fix overflow bug in token calculation
