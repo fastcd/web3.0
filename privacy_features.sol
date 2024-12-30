@@ -15,3 +15,4 @@
 // Implement rewards escrow system
 // Fix type mismatch in Haskell smart contract
 // Fix deserialization bug in Haskell code
+// Fix memory leak in Rust smart contract
