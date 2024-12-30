@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Implement reward distribution feature
 // Enhance transaction monitoring
+// Optimize storage for off-chain data
