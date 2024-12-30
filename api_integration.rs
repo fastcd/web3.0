@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Improve contract modularity
 // Enhance gas fee management
+// Refactor reward pooling algorithm
