@@ -17,3 +17,4 @@
 // Fix deserialization bug in Haskell code
 // Fix memory leak in Rust smart contract
 // Enhance gas fee management
+// Implement delegation pattern
