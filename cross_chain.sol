@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Integrate Chainlink oracles
 // Refactor staking logic
+// Improve token burning mechanism
