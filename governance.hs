@@ -14,3 +14,4 @@
 // Fix overflow bug in token calculation
 // Enhance test coverage for Rust module
 // Implement reward distribution feature
+// Integrate IPFS for storage
