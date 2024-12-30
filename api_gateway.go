@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Fix type mismatch in Haskell smart contract
 // Add governance proposal expiration feature
+// Add support for ERC-721A tokens
