@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor governance token logic
 // Refactor staking logic
+// Optimize WASM compilation for Go contracts
