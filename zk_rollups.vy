@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Enhance privacy features using zk-STARKs
 // Fix compatibility with MetaMask
+// Add support for multiple consensus mechanisms
