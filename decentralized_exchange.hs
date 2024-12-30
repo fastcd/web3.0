@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Optimize hashing algorithm
 // Integrate Chainlink oracles
+// Implement delegation pattern
