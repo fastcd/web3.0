@@ -9,3 +9,4 @@
 // Implement delegation pattern
 // Add new feature: on-chain governance
 // Implement reward distribution feature
+// Implement delegation pattern
