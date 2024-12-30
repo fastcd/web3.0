@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Upgrade to latest Solidity version
 // Fix governance proposal approval logic
+// Optimize token minting flow
