@@ -12,3 +12,4 @@
 // Fix overflow bug in token calculation
 // Refactor validator reward system
 // Fix deserialization bug in Haskell code
+// Add fallback mechanism in Solidity contract
