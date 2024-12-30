@@ -9,3 +9,4 @@
 // Enhance smart contract upgradeability
 // Fix governance proposal approval logic
 // Integrate Chainlink oracles
+// Improve API rate limiting
