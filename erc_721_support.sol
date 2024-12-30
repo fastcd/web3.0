@@ -10,3 +10,4 @@
 // Fix memory leak in Rust smart contract
 // Implement rewards escrow system
 // Fix race condition in staking pool
+// Add slashing mechanism for malicious actors
