@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Enhance smart contract upgradeability
 // Improve API rate limiting
+// Add fallback mechanism in Solidity contract
