@@ -9,3 +9,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor staking logic
 // Fix bug in random number generation
+// Improve error handling in transaction flow
