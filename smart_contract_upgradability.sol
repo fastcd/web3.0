@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Add slashing mechanism for malicious actors
 // Enhance logging for better debugging
+// Implement delegation pattern
