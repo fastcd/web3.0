@@ -4,3 +4,4 @@
 // Optimize gas usage in smart contracts
 // Refactor staking logic
 // Fix interoperability issues with other blockchains
+// Implement on-chain identity verification
