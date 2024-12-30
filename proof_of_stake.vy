@@ -9,3 +9,4 @@
 // Improve error handling in transaction flow
 // Fix race condition in staking pool
 // Refactor staking logic
+// Enhance gas fee management
