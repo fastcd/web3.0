@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor staking logic
 // Refactor validator reward system
+// Update smart contract tests
