@@ -2,3 +2,4 @@
 // Add batch processing for transactions
 // Optimize gas usage in smart contracts
 // Add governance proposal expiration feature
+// Fix issue in token vesting logic
