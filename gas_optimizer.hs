@@ -14,3 +14,4 @@
 // Update dependencies for Vyper contract
 // Improve token burning mechanism
 // Fix issue in token vesting logic
+// Refactor validator reward system
