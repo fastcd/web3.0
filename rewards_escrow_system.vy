@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Optimize gas usage in smart contracts
 // Optimize storage for off-chain data
+// Improve token burning mechanism
