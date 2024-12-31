@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Implement reward distribution feature
 // Fix type mismatch in Haskell smart contract
+// Fix bug in random number generation
