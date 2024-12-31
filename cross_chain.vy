@@ -8,3 +8,4 @@
 // Add support for ERC-1155 tokens
 // Optimize token minting flow
 // Enhance smart contract upgradeability
+// Improve token burning mechanism
