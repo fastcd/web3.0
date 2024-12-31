@@ -16,3 +16,4 @@
 // Fix edge case in unstaking logic
 // Reduce gas cost in minting logic
 // Integrate Chainlink VRF for randomness
+// Implement reward distribution feature
