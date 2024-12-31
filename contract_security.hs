@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Fix issue in ERC-20 token transfers
 // Implement delegation pattern
+// Improve gas estimation for transactions
