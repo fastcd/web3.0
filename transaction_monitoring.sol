@@ -12,3 +12,4 @@
 // Add batch processing for transactions
 // Optimize hashing algorithm
 // Fix transaction replay issue
+// Integrate zk-rollups for scaling
