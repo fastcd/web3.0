@@ -6,3 +6,4 @@
 // Update README with Go module examples
 // Integrate IPFS for storage
 // Implement rewards escrow system
+// Fix governance proposal approval logic
