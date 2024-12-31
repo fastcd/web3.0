@@ -10,3 +10,4 @@
 // Fix issue with multi-chain transactions
 // Add support for multiple consensus mechanisms
 // Add support for zk-SNARKs in smart contracts
+// Update README with Go module examples
