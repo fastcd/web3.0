@@ -15,3 +15,4 @@
 // Enhance test coverage for Rust module
 // Implement reward distribution feature
 // Integrate IPFS for storage
+// Fix deserialization bug in Haskell code
