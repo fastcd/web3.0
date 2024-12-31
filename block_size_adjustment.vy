@@ -7,3 +7,4 @@
 // Add slashing mechanism for malicious actors
 // Improve gas estimation for transactions
 // Reduce gas cost in minting logic
+// Refactor reward pooling algorithm
