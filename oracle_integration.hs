@@ -8,3 +8,4 @@
 // Upgrade to latest Solidity version
 // Optimize storage for off-chain data
 // Bugfix: incorrect reward calculation
+// Fix bug in random number generation
