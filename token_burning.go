@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Add unit tests for staking module
 // Implement dynamic fee adjustment
+// Improve error handling in transaction flow
