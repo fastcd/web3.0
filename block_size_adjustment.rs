@@ -8,3 +8,4 @@
 // Optimize oracle data fetching mechanism
 // Implement cross-chain bridge
 // Refactor incentive structure in DeFi protocol
+// Improve token burning mechanism
