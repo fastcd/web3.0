@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Add support for ERC-1155 tokens
 // Optimize oracle data fetching mechanism
+// Optimize hashing algorithm
