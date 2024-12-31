@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Optimize gas usage in smart contracts
 // Optimize gas usage in smart contracts
+// Implement liquidity pool staking mechanism
