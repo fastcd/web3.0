@@ -10,3 +10,4 @@
 // Fix interoperability issues with other blockchains
 // Fix compatibility with MetaMask
 // Improve API rate limiting
+// Implement adaptive block size for Ethereum
