@@ -18,3 +18,4 @@
 // Enhance security checks
 // Add unit tests for staking module
 // Add multi-sig wallet functionality
+// Update README with Go module examples
