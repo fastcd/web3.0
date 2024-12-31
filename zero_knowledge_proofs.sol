@@ -8,3 +8,4 @@
 // Reduce gas cost in minting logic
 // Implement on-chain identity verification
 // Implement delegation pattern
+// Improve contract modularity
