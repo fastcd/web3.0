@@ -11,3 +11,4 @@
 // Refactor storage layout for better efficiency
 // Integrate zk-rollups for scaling
 // Implement cross-chain bridge
+// Enhance logging for better debugging
