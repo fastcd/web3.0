@@ -11,3 +11,4 @@
 // Fix transaction replay issue
 // Fix type mismatch in Haskell smart contract
 // Integrate zk-rollups for scaling
+// Implement delegation pattern
