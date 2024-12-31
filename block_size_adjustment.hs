@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Implement adaptive block size for Ethereum
 // Implement reward distribution feature
+// Improve gas estimation for transactions
