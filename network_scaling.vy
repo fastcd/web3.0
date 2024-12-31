@@ -7,3 +7,4 @@
 // Enhance smart contract upgradeability
 // Fix bug in random number generation
 // Enhance test coverage for Rust module
+// Improve token burning mechanism
