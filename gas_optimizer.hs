@@ -15,3 +15,4 @@
 // Improve token burning mechanism
 // Fix issue in token vesting logic
 // Refactor validator reward system
+// Improve contract state management
