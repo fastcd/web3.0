@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Fix overflow bug in token calculation
 // Integrate zk-rollups for scaling
+// Reduce gas cost in minting logic
