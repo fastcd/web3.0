@@ -10,3 +10,4 @@
 // Optimize hashing algorithm
 // Optimize proof-of-stake validation
 // Bugfix: incorrect reward calculation
+// Add new RPC endpoint
