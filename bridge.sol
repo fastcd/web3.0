@@ -16,3 +16,4 @@
 // Implement on-chain identity verification
 // Fix transaction replay issue
 // Add governance proposal expiration feature
+// Add slashing mechanism for malicious actors
