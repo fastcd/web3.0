@@ -9,3 +9,4 @@
 // Add multi-sig wallet functionality
 // Add fallback mechanism in Solidity contract
 // Enhance logging for better debugging
+// Optimize oracle data fetching mechanism
