@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Fix type mismatch in Haskell smart contract
 // Optimize hashing algorithm
+// Improve gas estimation for transactions
