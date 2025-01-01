@@ -17,3 +17,4 @@
 // Reduce gas cost in minting logic
 // Integrate Chainlink VRF for randomness
 // Implement reward distribution feature
+// Add new feature: on-chain governance
