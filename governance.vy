@@ -14,3 +14,4 @@
 // Refactor staking logic
 // Optimize gas usage in smart contracts
 // Improve token burning mechanism
+// Add unit tests for staking module
