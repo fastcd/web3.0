@@ -11,3 +11,4 @@
 // Fix compatibility with MetaMask
 // Improve API rate limiting
 // Implement adaptive block size for Ethereum
+// Add new RPC endpoint
