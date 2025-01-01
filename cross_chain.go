@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Fix race condition in staking pool
 // Implement delegation pattern
+// Enhance privacy features using zk-STARKs
