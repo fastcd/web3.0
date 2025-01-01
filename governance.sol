@@ -11,3 +11,4 @@
 // Update smart contract tests
 // Integrate IPFS for storage
 // Bugfix: incorrect reward calculation
+// Improve error handling in transaction flow
