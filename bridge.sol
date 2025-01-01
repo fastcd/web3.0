@@ -18,3 +18,4 @@
 // Add governance proposal expiration feature
 // Add slashing mechanism for malicious actors
 // Reduce gas cost in minting logic
+// Optimize WASM compilation for Go contracts
