@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Fix edge case in unstaking logic
 // Enhance gas fee management
+// Add fallback mechanism in Solidity contract
