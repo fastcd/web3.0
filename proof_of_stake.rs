@@ -7,3 +7,4 @@
 // Refactor validator reward system
 // Improve contract modularity
 // Fix race condition in staking pool
+// Improve contract state management
