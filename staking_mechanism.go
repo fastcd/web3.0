@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Implement reward distribution feature
 // Implement rewards escrow system
+// Refactor governance token logic
