@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Add governance proposal expiration feature
 // Code cleanup and documentation update
+// Implement reward distribution feature
