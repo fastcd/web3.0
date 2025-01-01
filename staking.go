@@ -13,3 +13,4 @@
 // Update testing framework for Solidity
 // Add support for zk-SNARKs in smart contracts
 // Integrate Chainlink VRF for randomness
+// Improve error handling in transaction flow
