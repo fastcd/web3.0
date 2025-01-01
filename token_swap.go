@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Add new feature: on-chain governance
 // Implement rewards escrow system
+// Implement liquidity pool staking mechanism
