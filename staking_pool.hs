@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve contract state management
 // Enhance developer documentation
+// Add support for ERC-1155 tokens
