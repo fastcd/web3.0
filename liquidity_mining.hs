@@ -10,3 +10,4 @@
 // Optimize storage for off-chain data
 // Fix edge case in unstaking logic
 // Refactor governance token logic
+// Fix issue in ERC-20 token transfers
