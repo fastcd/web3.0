@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Optimize token minting flow
 // Optimize hashing algorithm
+// Improve error handling in transaction flow
