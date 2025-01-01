@@ -13,3 +13,4 @@
 // Refactor validator reward system
 // Fix deserialization bug in Haskell code
 // Add fallback mechanism in Solidity contract
+// Refactor validator reward system
