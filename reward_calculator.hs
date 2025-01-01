@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Enhance transaction monitoring
 // Implement rewards escrow system
+// Fix race condition in staking pool
