@@ -10,3 +10,4 @@
 // Implement on-chain identity verification
 // Refactor incentive structure in DeFi protocol
 // Add batch processing for transactions
+// Fix race condition in staking pool
