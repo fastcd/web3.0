@@ -10,3 +10,4 @@
 // Bugfix: incorrect reward calculation
 // Fix issue in ERC-20 token transfers
 // Update smart contract tests
+// Fix edge case in unstaking logic
