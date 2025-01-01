@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Fix type mismatch in Haskell smart contract
 // Fix bug in random number generation
+// Optimize WASM compilation for Go contracts
