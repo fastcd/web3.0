@@ -7,3 +7,4 @@
 // Fix security vulnerability in random number generation
 // Optimize contract upgrade process
 // Optimize token minting flow
+// Improve token burning mechanism
