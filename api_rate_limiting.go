@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Refactor staking logic
 // Code cleanup and documentation update
+// Enhance security checks
