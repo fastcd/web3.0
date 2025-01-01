@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Add new RPC endpoint
 // Improve error handling in transaction flow
+// Implement adaptive block size for Ethereum
