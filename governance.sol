@@ -10,3 +10,4 @@
 // Optimize storage for off-chain data
 // Update smart contract tests
 // Integrate IPFS for storage
+// Bugfix: incorrect reward calculation
