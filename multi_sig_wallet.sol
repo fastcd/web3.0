@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Refactor validator reward system
 // Update smart contract tests
+// Fix issue in token vesting logic
