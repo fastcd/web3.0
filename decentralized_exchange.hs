@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Integrate Chainlink oracles
 // Implement delegation pattern
+// Refactor staking logic
