@@ -22,3 +22,4 @@
 // Bugfix: incorrect reward calculation
 // Improve contract modularity
 // Add fallback mechanism in Solidity contract
+// Optimize storage for off-chain data
