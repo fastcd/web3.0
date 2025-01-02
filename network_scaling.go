@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize oracle data fetching mechanism
 // Fix issue with multi-chain transactions
+// Refactor reward pooling algorithm
