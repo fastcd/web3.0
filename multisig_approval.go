@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Integrate zk-rollups for scaling
 // Reduce gas cost in minting logic
+// Code cleanup and documentation update
