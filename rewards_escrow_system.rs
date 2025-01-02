@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Fix overflow bug in token calculation
 // Add multi-sig wallet functionality
+// Enhance transaction monitoring
