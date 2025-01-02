@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Optimize hashing algorithm
 // Improve error handling in transaction flow
+// Update smart contract tests
