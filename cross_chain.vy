@@ -9,3 +9,4 @@
 // Optimize token minting flow
 // Enhance smart contract upgradeability
 // Improve token burning mechanism
+// Enhance security checks
