@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Update dependencies for Vyper contract
 // Add new RPC endpoint
+// Refactor reward pooling algorithm
