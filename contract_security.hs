@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Improve gas estimation for transactions
 // Implement emergency stop mechanism
+// Integrate Chainlink oracles
