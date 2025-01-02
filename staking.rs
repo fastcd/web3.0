@@ -14,3 +14,4 @@
 // Fix race condition in staking pool
 // Refactor reward pooling algorithm
 // Update dependencies for Vyper contract
+// Fix bug in random number generation
