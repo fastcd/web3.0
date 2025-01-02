@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
+// Fix governance proposal approval logic
