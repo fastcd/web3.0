@@ -18,3 +18,4 @@
 // Enhance developer documentation
 // Enhance gas fee management
 // Optimize WASM compilation for Go contracts
+// Refactor reward pooling algorithm
