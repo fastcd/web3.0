@@ -8,3 +8,4 @@
 // Implement liquidity pool staking mechanism
 // Add fallback mechanism in Solidity contract
 // Improve error handling in transaction flow
+// Integrate zk-rollups for scaling
