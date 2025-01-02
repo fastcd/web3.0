@@ -16,3 +16,4 @@
 // Improve token burning mechanism
 // Add unit tests for staking module
 // Fix memory leak in Rust smart contract
+// Refactor voting mechanism
