@@ -12,3 +12,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance security checks
 // Update dependencies for Vyper contract
+// Improve error handling in transaction flow
