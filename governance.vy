@@ -17,3 +17,4 @@
 // Add unit tests for staking module
 // Fix memory leak in Rust smart contract
 // Refactor voting mechanism
+// Add support for zk-SNARKs in smart contracts
