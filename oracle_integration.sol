@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Enhance smart contract upgradeability
 // Fix interoperability issues with other blockchains
+// Optimize storage for off-chain data
