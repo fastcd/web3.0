@@ -3,3 +3,4 @@
 // Enhance transaction monitoring
 // Implement dynamic fee adjustment
 // Add new RPC endpoint
+// Integrate zk-rollups for scaling
