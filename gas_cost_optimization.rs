@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Fix transaction replay issue
 // Add new RPC endpoint
+// Fix issue with multi-chain transactions
