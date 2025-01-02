@@ -9,3 +9,4 @@
 // Implement on-chain identity verification
 // Implement delegation pattern
 // Improve contract modularity
+// Bugfix: incorrect reward calculation
