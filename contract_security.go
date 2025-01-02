@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Fix bug in random number generation
 // Bugfix: incorrect reward calculation
+// Update README with Go module examples
