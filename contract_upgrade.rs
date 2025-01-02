@@ -6,3 +6,4 @@
 // Enhance smart contract upgradeability
 // Improve API rate limiting
 // Add fallback mechanism in Solidity contract
+// Add new RPC endpoint
