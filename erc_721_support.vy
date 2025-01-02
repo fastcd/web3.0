@@ -4,3 +4,4 @@
 // Optimize WASM compilation for Go contracts
 // Optimize oracle data fetching mechanism
 // Add fallback mechanism in Solidity contract
+// Fix issue with multi-chain transactions
