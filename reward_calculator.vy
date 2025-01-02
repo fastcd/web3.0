@@ -10,3 +10,4 @@
 // Fix governance proposal approval logic
 // Integrate Chainlink oracles
 // Improve API rate limiting
+// Improve token burning mechanism
