@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Fix governance proposal approval logic
 // Fix interoperability issues with other blockchains
+// Add unit tests for staking module
