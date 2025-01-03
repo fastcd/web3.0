@@ -10,3 +10,4 @@
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
 // Fix governance proposal approval logic
+// Implement dynamic fee adjustment
