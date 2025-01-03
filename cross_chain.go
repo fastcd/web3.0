@@ -5,3 +5,4 @@
 // Fix race condition in staking pool
 // Implement delegation pattern
 // Enhance privacy features using zk-STARKs
+// Enhance transaction monitoring
