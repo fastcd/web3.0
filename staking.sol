@@ -11,3 +11,4 @@
 // Improve gas estimation for transactions
 // Refactor staking logic
 // Enhance smart contract upgradeability
+// Refactor governance token logic
