@@ -7,3 +7,4 @@
 // Implement cross-chain bridge
 // Optimize proof-of-stake validation
 // Fix overflow bug in token calculation
+// Add new feature: on-chain governance
