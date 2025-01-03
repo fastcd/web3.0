@@ -8,3 +8,4 @@
 // Implement cross-chain bridge
 // Enhance gas fee management
 // Optimize contract upgrade process
+// Fix deserialization bug in Haskell code
