@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Add multi-sig wallet functionality
 // Enhance transaction monitoring
+// Update dependencies for Vyper contract
