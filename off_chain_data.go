@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Fix overflow bug in token calculation
 // Add multi-sig wallet functionality
+// Enhance security checks
