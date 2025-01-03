@@ -9,3 +9,4 @@
 // Implement rewards escrow system
 // Refactor governance token logic
 // Improve error handling in transaction flow
+// Improve contract modularity
