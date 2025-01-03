@@ -11,3 +11,4 @@
 // Optimize proof-of-stake validation
 // Bugfix: incorrect reward calculation
 // Add new RPC endpoint
+// Fix bug in random number generation
