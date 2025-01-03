@@ -8,3 +8,4 @@
 // Improve gas estimation for transactions
 // Refactor reward pooling algorithm
 // Add multi-sig wallet functionality
+// Refactor staking logic
