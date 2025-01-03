@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Optimize hashing algorithm
 // Integrate IPFS for storage
+// Refactor governance token logic
