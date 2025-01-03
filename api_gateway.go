@@ -8,3 +8,4 @@
 // Add governance proposal expiration feature
 // Add support for ERC-721A tokens
 // Fix edge case in unstaking logic
+// Improve error handling in transaction flow
