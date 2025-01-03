@@ -7,3 +7,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add new RPC endpoint
 // Implement delegation pattern
+// Refactor reward pooling algorithm
