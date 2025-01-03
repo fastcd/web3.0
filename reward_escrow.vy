@@ -11,3 +11,4 @@
 // Implement cross-chain bridge
 // Optimize contract upgrade process
 // Optimize hashing algorithm
+// Add new feature: on-chain governance
