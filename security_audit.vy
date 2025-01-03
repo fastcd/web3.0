@@ -7,3 +7,4 @@
 // Optimize storage for off-chain data
 // Add unit tests for staking module
 // Improve token burning mechanism
+// Update dependencies for Vyper contract
