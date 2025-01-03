@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Fix deserialization bug in Haskell code
 // Implement reward distribution feature
+// Update testing framework for Solidity
