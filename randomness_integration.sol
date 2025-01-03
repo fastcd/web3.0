@@ -9,3 +9,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor reward pooling algorithm
 // Optimize gas usage in smart contracts
+// Add fallback mechanism in Solidity contract
