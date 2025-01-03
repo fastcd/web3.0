@@ -14,3 +14,4 @@
 // Update dependencies for Vyper contract
 // Fix overflow bug in token calculation
 // Update smart contract tests
+// Implement cross-chain bridge
