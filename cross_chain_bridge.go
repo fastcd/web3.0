@@ -9,3 +9,4 @@
 // Refactor reward pooling algorithm
 // Add multi-sig wallet functionality
 // Refactor staking logic
+// Optimize oracle data fetching mechanism
