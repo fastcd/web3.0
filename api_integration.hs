@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Fix compatibility with MetaMask
 // Refactor voting mechanism
+// Implement delegation pattern
