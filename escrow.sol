@@ -19,3 +19,4 @@
 // Implement reward distribution feature
 // Add new feature: on-chain governance
 // Enhance smart contract upgradeability
+// Fix governance proposal approval logic
