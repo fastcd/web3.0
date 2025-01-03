@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Improve contract modularity
 // Add slashing mechanism for malicious actors
+// Add slashing mechanism for malicious actors
