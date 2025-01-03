@@ -12,3 +12,4 @@
 // Integrate zk-rollups for scaling
 // Implement cross-chain bridge
 // Enhance logging for better debugging
+// Update smart contract tests
