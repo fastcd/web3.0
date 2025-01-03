@@ -13,3 +13,4 @@
 // Refactor governance token logic
 // Fix issue in ERC-20 token transfers
 // Add unit tests for staking module
+// Fix security vulnerability in random number generation
