@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Add new RPC endpoint
 // Integrate IPFS for storage
+// Enhance logging for better debugging
