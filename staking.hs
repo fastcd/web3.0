@@ -12,3 +12,4 @@
 // Add batch processing for transactions
 // Fix race condition in staking pool
 // Fix issue in ERC-20 token transfers
+// Refactor governance token logic
