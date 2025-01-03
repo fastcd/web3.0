@@ -9,3 +9,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix compatibility with MetaMask
 // Add support for multiple consensus mechanisms
+// Update dependencies for Vyper contract
