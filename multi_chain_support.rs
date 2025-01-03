@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Improve gas estimation for transactions
 // Fix issue with multi-chain transactions
+// Enhance gas fee management
