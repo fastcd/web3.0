@@ -18,3 +18,4 @@
 // Fix memory leak in Rust smart contract
 // Refactor voting mechanism
 // Add support for zk-SNARKs in smart contracts
+// Fix edge case in unstaking logic
