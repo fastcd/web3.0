@@ -13,3 +13,4 @@
 // Optimize hashing algorithm
 // Add new feature: on-chain governance
 // Implement on-chain identity verification
+// Optimize gas usage in smart contracts
