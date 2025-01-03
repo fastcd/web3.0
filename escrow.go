@@ -11,3 +11,4 @@
 // Fix edge case in unstaking logic
 // Implement delegation pattern
 // Improve error handling in transaction flow
+// Fix deserialization bug in Haskell code
