@@ -9,3 +9,4 @@
 // Optimize storage for off-chain data
 // Bugfix: incorrect reward calculation
 // Fix bug in random number generation
+// Optimize contract upgrade process
