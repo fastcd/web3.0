@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Implement rewards escrow system
 // Fix governance proposal approval logic
+// Bugfix: incorrect reward calculation
