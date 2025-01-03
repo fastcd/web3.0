@@ -8,3 +8,4 @@
 // Fix transaction replay issue
 // Add batch processing for transactions
 // Fix interoperability issues with other blockchains
+// Implement adaptive block size for Ethereum
