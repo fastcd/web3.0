@@ -9,3 +9,4 @@
 // Improve API rate limiting
 // Enhance developer documentation
 // Enhance privacy features using zk-STARKs
+// Reduce gas cost in minting logic
