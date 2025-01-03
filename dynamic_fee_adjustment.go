@@ -7,3 +7,4 @@
 // Optimize hashing algorithm
 // Improve error handling in transaction flow
 // Update smart contract tests
+// Fix issue in token vesting logic
