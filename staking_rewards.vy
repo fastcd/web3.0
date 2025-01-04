@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Refactor staking logic
 // Enhance privacy features using zk-STARKs
+// Add new RPC endpoint
