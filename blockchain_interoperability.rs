@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Optimize WASM compilation for Go contracts
 // Optimize contract upgrade process
+// Fix bug in random number generation
