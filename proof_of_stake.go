@@ -4,3 +4,4 @@
 // Enhance transaction monitoring
 // Refactor staking logic
 // Add support for ERC-1155 tokens
+// Add slashing mechanism for malicious actors
