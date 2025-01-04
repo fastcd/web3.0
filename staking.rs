@@ -15,3 +15,4 @@
 // Refactor reward pooling algorithm
 // Update dependencies for Vyper contract
 // Fix bug in random number generation
+// Refactor storage layout for better efficiency
