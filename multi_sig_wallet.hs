@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Add unit tests for staking module
 // Enhance privacy features using zk-STARKs
+// Add support for zk-SNARKs in smart contracts
