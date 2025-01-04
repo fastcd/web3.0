@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Improve contract modularity
 // Enhance logging for better debugging
+// Upgrade to latest Solidity version
