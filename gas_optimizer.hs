@@ -20,3 +20,4 @@
 // Fix security vulnerability in random number generation
 // Optimize WASM compilation for Go contracts
 // Optimize contract upgrade process
+// Improve error handling in transaction flow
