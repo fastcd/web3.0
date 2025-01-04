@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Code cleanup and documentation update
 // Implement reward distribution feature
+// Implement on-chain identity verification
