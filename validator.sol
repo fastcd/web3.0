@@ -17,3 +17,4 @@
 // Add slashing mechanism for malicious actors
 // Fix deserialization bug in Haskell code
 // Improve gas estimation for transactions
+// Refactor reward pooling algorithm
