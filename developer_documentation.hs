@@ -11,3 +11,4 @@
 // Add new feature: on-chain governance
 // Refactor reward pooling algorithm
 // Add slashing mechanism for malicious actors
+// Implement delegation pattern
