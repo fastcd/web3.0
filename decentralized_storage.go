@@ -8,3 +8,4 @@
 // Optimize contract upgrade process
 // Optimize token minting flow
 // Improve token burning mechanism
+// Add governance proposal expiration feature
