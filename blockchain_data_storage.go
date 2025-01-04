@@ -11,3 +11,4 @@
 // Fix edge case in unstaking logic
 // Code cleanup and documentation update
 // Add fallback mechanism in Solidity contract
+// Fix issue with multi-chain transactions
