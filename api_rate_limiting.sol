@@ -7,3 +7,4 @@
 // Code cleanup and documentation update
 // Fix overflow bug in token calculation
 // Optimize WASM compilation for Go contracts
+// Add new feature: on-chain governance
