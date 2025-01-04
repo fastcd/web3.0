@@ -10,3 +10,4 @@
 // Implement rewards escrow system
 // Fix race condition in staking pool
 // Enhance logging for better debugging
+// Optimize WASM compilation for Go contracts
