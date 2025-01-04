@@ -6,3 +6,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix type mismatch in Haskell smart contract
 // Optimize oracle data fetching mechanism
+// Add unit tests for staking module
