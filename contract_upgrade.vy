@@ -11,3 +11,4 @@
 // Enhance transaction monitoring
 // Add support for ERC-1155 tokens
 // Update testing framework for Solidity
+// Reduce gas cost in minting logic
