@@ -10,3 +10,4 @@
 // Enhance contract initialization process
 // Update smart contract tests
 // Enhance security checks
+// Improve error handling in transaction flow
