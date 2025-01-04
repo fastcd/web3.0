@@ -6,3 +6,4 @@
 // Fix governance proposal approval logic
 // Code cleanup and documentation update
 // Fix overflow bug in token calculation
+// Optimize WASM compilation for Go contracts
