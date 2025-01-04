@@ -9,3 +9,4 @@
 // Fix issue with multi-chain transactions
 // Update README with Go module examples
 // Integrate Chainlink oracles
+// Implement liquidity pool staking mechanism
