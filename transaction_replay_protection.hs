@@ -12,3 +12,4 @@
 // Refactor voting mechanism
 // Enhance smart contract upgradeability
 // Refactor staking logic
+// Enhance gas fee management
