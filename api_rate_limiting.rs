@@ -8,3 +8,4 @@
 // Implement rewards escrow system
 // Fix governance proposal approval logic
 // Bugfix: incorrect reward calculation
+// Refactor incentive structure in DeFi protocol
