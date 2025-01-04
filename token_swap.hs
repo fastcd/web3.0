@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Fix deserialization bug in Haskell code
 // Enhance test coverage for Rust module
+// Refactor incentive structure in DeFi protocol
