@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Improve token burning mechanism
 // Implement on-chain identity verification
+// Implement delegation pattern
