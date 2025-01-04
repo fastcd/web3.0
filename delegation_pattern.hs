@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Improve API rate limiting
 // Improve error handling in transaction flow
+// Enhance transaction monitoring
