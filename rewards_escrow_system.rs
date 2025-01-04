@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Enhance transaction monitoring
 // Update dependencies for Vyper contract
+// Fix edge case in unstaking logic
