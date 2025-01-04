@@ -8,3 +8,4 @@
 // Implement reward distribution feature
 // Optimize WASM compilation for Go contracts
 // Improve API rate limiting
+// Add new feature: on-chain governance
