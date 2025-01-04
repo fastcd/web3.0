@@ -3,3 +3,4 @@
 // Implement dynamic fee adjustment
 // Reduce gas cost in minting logic
 // Add fallback mechanism in Solidity contract
+// Fix overflow bug in token calculation
