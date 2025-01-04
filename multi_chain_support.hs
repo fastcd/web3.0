@@ -7,3 +7,4 @@
 // Enhance transaction monitoring
 // Optimize storage for off-chain data
 // Add multi-sig wallet functionality
+// Bugfix: incorrect reward calculation
