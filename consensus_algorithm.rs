@@ -5,3 +5,4 @@
 // Upgrade to latest Solidity version
 // Fix overflow bug in token calculation
 // Implement emergency stop mechanism
+// Fix race condition in staking pool
