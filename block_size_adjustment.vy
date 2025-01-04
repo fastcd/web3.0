@@ -9,3 +9,4 @@
 // Reduce gas cost in minting logic
 // Refactor reward pooling algorithm
 // Implement delegation pattern
+// Add support for ERC-1155 tokens
