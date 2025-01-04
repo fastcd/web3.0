@@ -5,3 +5,4 @@
 // Implement cross-chain bridge
 // Enhance security checks
 // Improve token burning mechanism
+// Refactor voting mechanism
