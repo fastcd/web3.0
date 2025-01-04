@@ -9,3 +9,4 @@
 // Add new feature: on-chain governance
 // Fix overflow bug in token calculation
 // Enhance logging for better debugging
+// Implement emergency stop mechanism
