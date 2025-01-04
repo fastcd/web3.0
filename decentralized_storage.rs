@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Integrate zk-rollups for scaling
 // Fix overflow bug in token calculation
+// Optimize contract upgrade process
