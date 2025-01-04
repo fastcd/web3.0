@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Fix transaction replay issue
 // Refactor voting mechanism
+// Optimize WASM compilation for Go contracts
