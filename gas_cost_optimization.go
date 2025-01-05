@@ -10,3 +10,4 @@
 // Refactor storage layout for better efficiency
 // Fix overflow bug in token calculation
 // Implement rewards escrow system
+// Fix issue with multi-chain transactions
