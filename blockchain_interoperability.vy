@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Refactor voting mechanism
 // Enhance contract initialization process
+// Add new RPC endpoint
