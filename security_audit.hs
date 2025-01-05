@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles
 // Implement emergency stop mechanism
 // Fix race condition in staking pool
+// Refactor validator reward system
