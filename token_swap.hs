@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Fix memory leak in Rust smart contract
 // Fix edge case in unstaking logic
+// Fix transaction replay issue
