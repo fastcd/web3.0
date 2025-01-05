@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Enhance privacy features using zk-STARKs
 // Add new RPC endpoint
+// Optimize gas usage in smart contracts
