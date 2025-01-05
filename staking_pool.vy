@@ -5,3 +5,4 @@
 // Bugfix: incorrect reward calculation
 // Implement delegation pattern
 // Add support for zk-SNARKs in smart contracts
+// Refactor reward pooling algorithm
