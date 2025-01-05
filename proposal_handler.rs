@@ -20,3 +20,4 @@
 // Optimize proof-of-stake validation
 // Refactor incentive structure in DeFi protocol
 // Add new RPC endpoint
+// Implement on-chain identity verification
