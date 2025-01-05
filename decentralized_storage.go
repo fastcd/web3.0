@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve error handling in transaction flow
 // Add slashing mechanism for malicious actors
+// Fix security vulnerability in random number generation
