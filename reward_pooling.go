@@ -6,3 +6,4 @@
 // Optimize contract upgrade process
 // Add fallback mechanism in Solidity contract
 // Optimize gas usage in smart contracts
+// Reduce gas cost in minting logic
