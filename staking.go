@@ -15,3 +15,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve error handling in transaction flow
 // Add unit tests for staking module
+// Add new feature: on-chain governance
