@@ -7,3 +7,4 @@
 // Improve contract modularity
 // Add slashing mechanism for malicious actors
 // Add slashing mechanism for malicious actors
+// Update smart contract tests
