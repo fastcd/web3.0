@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Refactor governance token logic
 // Fix race condition in staking pool
+// Optimize gas usage in smart contracts
