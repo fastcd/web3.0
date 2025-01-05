@@ -8,3 +8,4 @@
 // Optimize storage for off-chain data
 // Improve token burning mechanism
 // Implement adaptive block size for Ethereum
+// Add support for ERC-1155 tokens
