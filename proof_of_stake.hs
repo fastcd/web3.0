@@ -10,3 +10,4 @@
 // Add new feature: on-chain governance
 // Implement reward distribution feature
 // Implement delegation pattern
+// Fix governance proposal approval logic
