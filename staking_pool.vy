@@ -4,3 +4,4 @@
 // Enhance security checks
 // Bugfix: incorrect reward calculation
 // Implement delegation pattern
+// Add support for zk-SNARKs in smart contracts
