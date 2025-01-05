@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Refactor voting mechanism
 // Implement delegation pattern
+// Implement emergency stop mechanism
