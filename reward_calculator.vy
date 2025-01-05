@@ -13,3 +13,4 @@
 // Improve token burning mechanism
 // Refactor contract to use EIP-712 signatures
 // Improve contract state management
+// Implement rewards escrow system
