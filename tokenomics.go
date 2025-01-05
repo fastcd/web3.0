@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Implement reward distribution feature
 // Implement delegation pattern
+// Bugfix: incorrect reward calculation
