@@ -13,3 +13,4 @@
 // Fix governance proposal approval logic
 // Fix governance proposal approval logic
 // Refactor voting mechanism
+// Fix memory leak in Rust smart contract
