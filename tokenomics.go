@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Improve contract modularity
 // Implement reward distribution feature
+// Implement delegation pattern
