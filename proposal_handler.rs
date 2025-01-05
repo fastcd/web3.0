@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Enhance test coverage for Rust module
 // Update README with Go module examples
+// Implement reward distribution feature
