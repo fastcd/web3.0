@@ -9,3 +9,4 @@
 // Optimize WASM compilation for Go contracts
 // Add new feature: on-chain governance
 // Implement on-chain identity verification
+// Fix overflow bug in token calculation
