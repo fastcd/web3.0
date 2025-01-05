@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Add governance proposal expiration feature
 // Optimize WASM compilation for Go contracts
+// Integrate Chainlink VRF for randomness
