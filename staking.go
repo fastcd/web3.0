@@ -7,3 +7,4 @@
 // Refactor voting mechanism
 // Enhance logging for better debugging
 // Improve contract state management
+// Integrate Chainlink VRF for randomness
