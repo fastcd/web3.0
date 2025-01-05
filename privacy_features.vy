@@ -6,3 +6,4 @@
 // Improve API rate limiting
 // Add new RPC endpoint
 // Add slashing mechanism for malicious actors
+// Code cleanup and documentation update
