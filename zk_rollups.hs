@@ -7,3 +7,4 @@
 // Fix memory leak in Rust smart contract
 // Upgrade to latest Solidity version
 // Add unit tests for staking module
+// Implement rewards escrow system
