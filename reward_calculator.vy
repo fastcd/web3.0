@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Implement rewards escrow system
 // Fix issue with multi-chain transactions
+// Improve gas estimation for transactions
