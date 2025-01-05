@@ -5,3 +5,4 @@
 // Upgrade to latest Solidity version
 // Fix governance proposal approval logic
 // Refactor staking logic
+// Optimize gas usage in smart contracts
