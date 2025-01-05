@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Implement delegation pattern
 // Optimize token minting flow
+// Add multi-sig wallet functionality
