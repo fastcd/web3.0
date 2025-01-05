@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate Chainlink oracles
 // Implement emergency stop mechanism
+// Fix race condition in staking pool
