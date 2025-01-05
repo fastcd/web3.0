@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Fix race condition in staking pool
 // Improve API rate limiting
+// Improve token burning mechanism
