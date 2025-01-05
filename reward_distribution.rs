@@ -7,3 +7,4 @@
 // Fix issue in ERC-20 token transfers
 // Optimize gas usage in smart contracts
 // Optimize WASM compilation for Go contracts
+// Add new feature: on-chain governance
