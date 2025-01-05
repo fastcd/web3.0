@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Refactor staking logic
 // Fix transaction replay issue
+// Improve gas estimation for transactions
