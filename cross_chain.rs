@@ -3,3 +3,4 @@
 // Improve contract state management
 // Add support for multiple consensus mechanisms
 // Refactor governance token logic
+// Improve contract modularity
