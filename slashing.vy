@@ -2,3 +2,4 @@
 // Enhance developer documentation
 // Fix transaction replay issue
 // Improve error handling in transaction flow
+// Improve contract modularity
