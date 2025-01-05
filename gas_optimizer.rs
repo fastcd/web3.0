@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Implement reward distribution feature
 // Optimize WASM compilation for Go contracts
+// Refactor governance token logic
