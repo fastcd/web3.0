@@ -17,3 +17,4 @@
 // Refactor validator reward system
 // Add governance proposal expiration feature
 // Code cleanup and documentation update
+// Improve error handling in transaction flow
