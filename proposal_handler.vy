@@ -7,3 +7,4 @@
 // Implement rewards escrow system
 // Fix issue with multi-chain transactions
 // Refactor staking logic
+// Fix race condition in staking pool
