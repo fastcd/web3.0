@@ -8,3 +8,4 @@
 // Implement reward distribution feature
 // Improve API rate limiting
 // Enhance contract initialization process
+// Fix issue with multi-chain transactions
