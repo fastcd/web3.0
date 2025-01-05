@@ -7,3 +7,4 @@
 // Fix bug in random number generation
 // Optimize WASM compilation for Go contracts
 // Add fallback mechanism in Solidity contract
+// Improve gas estimation for transactions
