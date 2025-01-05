@@ -10,3 +10,4 @@
 // Fix issue in token vesting logic
 // Add new RPC endpoint
 // Fix governance proposal approval logic
+// Integrate Chainlink oracles
