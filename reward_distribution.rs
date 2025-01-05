@@ -8,3 +8,4 @@
 // Optimize gas usage in smart contracts
 // Optimize WASM compilation for Go contracts
 // Add new feature: on-chain governance
+// Implement on-chain identity verification
