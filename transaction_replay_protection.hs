@@ -13,3 +13,4 @@
 // Enhance smart contract upgradeability
 // Refactor staking logic
 // Enhance gas fee management
+// Reduce gas cost in minting logic
