@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for ERC-1155 tokens
 // Optimize gas usage in smart contracts
+// Refactor validator reward system
