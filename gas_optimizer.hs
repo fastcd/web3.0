@@ -8,3 +8,4 @@
 // Add governance proposal expiration feature
 // Enhance contract initialization process
 // Implement delegation pattern
+// Update testing framework for Solidity
