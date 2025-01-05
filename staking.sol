@@ -13,3 +13,4 @@
 // Enhance smart contract upgradeability
 // Refactor governance token logic
 // Improve token burning mechanism
+// Integrate Chainlink VRF for randomness
